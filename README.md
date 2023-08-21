@@ -76,7 +76,7 @@ that in modem times this volume is the first work to propound
 such a view. 
 
 The world began millions of years ago with the Kruta Yuga 
-(i.e. the ‘ready-made* era) with a complete, ready-made setting 
+(i.e. the ‘ready-made' era) with a complete, ready-made setting 
 of human beings, plants and animals, with humanity rooted in 
 Vedic culture and speaking Sanskrit. Thereafter, divinity kept 
 aloof watching and umpiring the affairs of the world, even as people 
