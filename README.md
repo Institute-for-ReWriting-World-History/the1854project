@@ -57,7 +57,7 @@ begun at some random point, discussed some chosen periods and
 topics of history and called it a day. 
 
 Such treatment is symptomatic of the confusion that abounds 
-in the minds of the intelligentsia regarding histoiy. That confusion 
+in the minds of the intelligentsia regarding history. That confusion 
 is multilateral. This volume is intended to remove that confusing 
 haze from the reader’s mind and open before him a new vista 
 of logical, systematic and thorough thinking in histoiy. 
@@ -77,8 +77,7 @@ such a view.
 
 The world began millions of years ago with the Kruta Yuga 
 (i.e. the ‘ready-made* era) with a complete, ready-made setting 
-of human beings, plants and animals, with humanity looted in 
-
+of human beings, plants and animals, with humanity rooted in 
 Vedic culture and speaking Sanskrit. Thereafter, divinity kept 
 aloof watching and umpiring the affairs of the world, even as people 
 start a stage play or a field game, factory or business firm with 
@@ -86,7 +85,7 @@ fully-trained participants and thereafter keep away watching and
 umpiring the performance. 
 
 All history must start from that metaphysical point. The present 
-concept that man was bom somewhere, somehow and that he 
+concept that man was born somewhere, somehow and that he 
 developed one or more languages anyhow must no longer be regarded 
 as rational. 
 
@@ -143,7 +142,7 @@ unimpeded access to all parts of the world, eliminating sectional,
 sectarian and religious strife, modem society rates veiy low. The 
 propagation of factional religions like Buddhism, Christianity and 
 Islam have driven wedges in human society and plunged it into 
-social and theological confusion. The Vedic mornings have been 
+social and theological confusion. The Vedic moorings have been 
 lost. Humanity today is in the hapless position of being thrown 
 overboard from a wrecked Vedic ship to fend for itself in a dark, 
 stormy, shark-infested sea of divisive selfish interests with each 
@@ -155,7 +154,7 @@ fiercer and more enmical factions.
 
 It is hoped, incidentally, that this Unified Field Theory of World 
 History would help unite humanity once again in Vedic culture, 
-in the universal teaching and speaking of Sanskn't, abandonment 
+in the universal teaching and speaking of Sanskrit, abandonment 
 of all religious and political labels and treating the whole globe 
 as one realm where man may once again move freely as in ancient 
 times sans passport and sans visa. This way tuition in history 
