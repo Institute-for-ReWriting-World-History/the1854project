@@ -60,7 +60,7 @@ Such treatment is symptomatic of the confusion that abounds
 in the minds of the intelligentsia regarding history. That confusion 
 is multilateral. This volume is intended to remove that confusing 
 haze from the reader’s mind and open before him a new vista 
-of logical, systematic and thorough thinking in histoiy. 
+of logical, systematic and thorough thinking in history. 
 
 Theologians agree that despite diverse manifestations the 
 immanent divinity is one. Likewise physicists agree that the seemingly 
