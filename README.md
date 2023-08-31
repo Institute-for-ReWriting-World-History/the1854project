@@ -76,8 +76,8 @@ is simply one civilization among others, and what is so pompously called
 “the evolution of civilization” is nothing more than the development of that 
 particular civilization from its comparatively recent origins, a development which is, moreover, far 
 from having always proceeded by a regular and all-round “progress” : the remarks we have just made about 
-the so-called Renaissance and its consequences could serve as a striking illustration of an intellectual retro- 
-gres'sion which, furthermore, has gone on increasing down to the present time. 
+the so-called Renaissance and its consequences could serve as a striking illustration of an intellectual 
+retrogresion which, furthermore, has gone on increasing down to the present time. 
 
 </details>
 
