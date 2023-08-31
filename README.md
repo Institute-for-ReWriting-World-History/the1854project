@@ -39,19 +39,22 @@ Subjects: 1. Sociology 2. Epistemology
 
 ## Contents
 
-1. The Enlightenment, The Slave Bible and The Regimes of Truth
+1. 
    
 ## Author's Note
 
 ## A Note About This Book
 
+> The word "dogma" comes from the Greek dok (ein) which may be translated as "seem good."
+> Equality, justice, freedom, democracy, all of these are dogmas for us today, just as
+> the Godhead, the Resurrection, and spiritual grace were (and still are)
+> dogmas for the christan community (Nisbet 22-23).
+
 ## Epigraph 
 
-## Preface
 
-> The word "dogma" comes from the Greek dok (ein) which may be translated as "seem good." Equality, justice, freedom, democracy, all of these are dogmas for us today, just as the Godhead, the Resurrection, and spiritual grace were (and still are) dogmas for the christan community (Nisbet 22-23).
 
-## The Enlightenment, The Slave Bible and The Regimes of Truth 	
+## Preface 	
 
 >Truth is a thing of this world: it is produced only by virtue of multiple
 >forms of constraint.  And it induces regular effects of power.  Each society
@@ -64,9 +67,15 @@ Subjects: 1. Sociology 2. Epistemology
 
 ## Dedication 
 
-## Acknolwdgements
+Indians—Past, Present and Future
+
+## Acknowledgements
+
+The 1619 Project
 
 ## Contributors 
+
+**Kardama Devahuti** is a staff writer at *The Institute for ReWriting World History*. 
 
 ## Notes 
 
@@ -89,3 +98,5 @@ Subjects: 1. Sociology 2. Epistemology
     Services, 2002.
     
 ## Credits 
+
+1. Greenough, George Bellas, *General sketch of the physical and geological features of British India*, 1855.
