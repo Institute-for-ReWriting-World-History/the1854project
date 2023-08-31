@@ -54,7 +54,7 @@ Subjects: 1. Sociology 2. Epistemology
 <summary>
    
 Excerpt From *Introduction To The Study Of The Hindu Doctrines*: The Classical Prejudice 
-By Rene Guenon
+By René Guénon
 
 </summary>
 
