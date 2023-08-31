@@ -37,6 +37,40 @@ Title: The Vedic context of religions of man/ Kardama Devahuti<br>
 ASIN:<br>
 Subjects: 1. Sociology 2. Epistemology
 
+## Preface
+
+>The word "dogma" comes from the Greek dok (ein) which may be translated
+>as "seem good." Equality, justice, freedom, democracy, all of these are
+>dogmas for us today, just as the Godhead, the Resurrection, and spiritual
+>grace were (and still are) dogmas for the christan community (Nisbet 22-23).
+
+## Table of Contents
+
+1. The Enlightenment, The Slave Bible and The Regimes of Truth
+   
+## The Enlightenment, The Slave Bible and The Regimes of Truth 	
+
+>Truth is a thing of this world: it is produced only by virtue of multiple
+>forms of constraint.  And it induces regular effects of power.  Each society
+>has its regime of truth, its “general politics” of truth: that is, the types
+>of discourse which it accepts and makes function as true; the mechanisms and
+>instances which enable one to distinguish true and false statements, the means
+>by which each is sanctioned; the techniques and procedures accorded value in
+>the acquisition of truth; the status of those who are charged with saying
+>what counts as true (Foucault, *The Foucault reader* 72-73).
+
+## Bibliography 
+
+  Nisbet, R.A. *The Degradation of the Academic Dogma: The 
+    University in America, 1945-1970*. Pearson Education, 1971.
+
+  Foucault, Michel. The Foucault reader. United Kingdom, 
+    Knopf Doubleday Publishing Group, 1984.
+
+  Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિકશનરી [Etymological
+    Gujarati-English Dictionary].* 2nd Edition, Asian Educational
+    Services, 2002.
+    
 [^1]: તન-મન-ધન a. n. [See તન + મન + ધન] Lit. The body, the mind, and
     one’s wealth. Hence, 2. All that one loves; the highest object of
     one’s ambition (Belsare 577).
