@@ -35,4 +35,4 @@ Cataloging in Publication Data
 Name: Kardama Devahuti, 2023— author.<br>
 Title: The Vedic context of religions of man/ Kardama Devahuti<br>
 ASIN:<br>
-Subjects: 1. Philosophy 2. Epistemology <br>
+Subjects: 1. Sociology 2. Epistemology
