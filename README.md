@@ -36,3 +36,11 @@ Name: Kardama Devahuti, 2023— author.<br>
 Title: The Vedic context of religions of man/ Kardama Devahuti<br>
 ASIN:<br>
 Subjects: 1. Sociology 2. Epistemology
+
+[^1]: તન-મન-ધન a. n. [See તન + મન + ધન] Lit. The body, the mind, and
+    one’s wealth. Hence, 2. All that one loves; the highest object of
+    one’s ambition (Belsare 577).
+
+    Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિકશનરી [Etymological
+    Gujarati-English Dictionary].* 2nd Edition, Asian Educational
+    Services, 2002.
