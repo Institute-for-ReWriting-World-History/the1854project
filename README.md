@@ -52,7 +52,17 @@ Subjects: 1. Sociology 2. Epistemology
 
 ## Epigraph 
 
-
+असतो मा सद्गमय ।<br>
+तमसो मा ज्योतिर्गमय ।<br>
+मृत्योर्माऽमृतं गमय ॥<br>
+<br>
+*asato mā sadgamaya,*<br>
+*tamaso mā jyotirgamaya,*<br>
+*mṛtyormā'mṛtaṃ gamaya.*<br>
+<br>
+From the unreal lead me to the real!<br>
+From the darkness lead me to the light!<br>
+From death lead me to immortality!<br>
 
 ## Preface 	
 
