@@ -78,16 +78,6 @@ Each chapter begins with a transcription of the word in question the original sc
 >the acquisition of truth; the status of those who are charged with saying
 >what counts as true (Foucault, *The Foucault reader* 72-73).
 
-## Aryan
-आर्य, *ā́rya*: "noble"
-## Caste
- *casta*: "lineage"
-## Sati
-सती, *sati*: "chaste woman"
-## Swastika
-वस्तिक, *svastika*: "conducive to well-being"
-## Hindutva
-*Hindutva*: “Hinduness"
 ## Epigraph 
 
 असतो मा सद्गमय ।<br>
@@ -101,6 +91,21 @@ Each chapter begins with a transcription of the word in question the original sc
 From the unreal lead me to the real!<br>
 From the darkness lead me to the light!<br>
 From death lead me to immortality!<br>
+
+## Aryan
+आर्य, *ā́rya*: "noble"
+
+## Caste
+ *casta*: "lineage"
+
+## Sati
+सती, *sati*: "chaste woman"
+
+## Swastika
+वस्तिक, *svastika*: "conducive to well-being"
+
+## Hindutva
+*Hindutva*: “Hinduness"
 
 ## Dedication 
 
