@@ -67,6 +67,16 @@ Preceding each chapter is a transcription of the word in question the original s
 > the Godhead, the Resurrection, and spiritual grace were (and still are)
 > dogmas for the christan community (Nisbet 22-23).
 
+## Aryan
+आर्य, *ā́rya*: "noble"
+## Caste
+ *casta*: "lineage"
+## Sati
+सती, *sati*: "chaste woman"
+## Swastika
+वस्तिक, *svastika*: "conducive to well-being"
+## Hindutva
+*Hindutva*: “Hinduness"
 ## Epigraph 
 
 असतो मा सद्गमय ।<br>
