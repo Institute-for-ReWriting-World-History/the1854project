@@ -39,9 +39,26 @@ Subjects: 1. Sociology 2. Epistemology
 
 ## Contents
 
-1. 
+Author’s Note <br>
+A Note About This Book <br>
+Epigraph <br>
+Preface <br>
+
+1. Aryan
+2. Caste
+3. Sati
+4. Swastika
+5. Hindutva
+
+Dedication <br>
+Acknowledgements <br>
+Contributors <br>
+Notes <br>
+Credits <br>
    
 ## Author's Note
+
+Preceding each chapter is a transcription of the word in question the original script,  followed by a transliteration of the Word in ISO Latin 1 in italics, followed and a brief definition (translation) of the Word in English in parentheses.
 
 ## A Note About This Book
 
