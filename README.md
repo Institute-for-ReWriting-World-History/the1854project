@@ -80,17 +80,7 @@ Each chapter begins with a transcription of the word in question the original sc
 
 ## Epigraph 
 
-असतो मा सद्गमय ।<br>
-तमसो मा ज्योतिर्गमय ।<br>
-मृत्योर्माऽमृतं गमय ॥<br>
-<br>
-*asato mā sadgamaya,*<br>
-*tamaso mā jyotirgamaya,*<br>
-*mṛtyormā'mṛtaṃ gamaya.*<br>
-<br>
-From the unreal lead me to the real!<br>
-From the darkness lead me to the light!<br>
-From death lead me to immortality!<br>
+>Indology: The academic study of the languages, cultures, histories, and religions of the Indian subcontinent.[^2]
 
 ## Aryan
 आर्य, *ā́rya*: "noble"
@@ -138,7 +128,10 @@ The 1619 Project
     Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિકશનરી [Etymological
     Gujarati-English Dictionary].* 2nd Edition, Asian Educational
     Services, 2002.
+
+[^2]: Oxford Dictionary of English. Oxford: Oxford University Press; 2014.
     
 ## Credits 
 
 1. Greenough, George Bellas, *General sketch of the physical and geological features of British India*, 1855.
+
