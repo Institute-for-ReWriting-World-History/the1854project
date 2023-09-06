@@ -83,18 +83,23 @@ Each chapter begins with a transcription of the word in question the original sc
 >*Indology*: "The academic study of the languages, cultures, histories, and religions of the Indian subcontinent."[^2]
 
 ## Aryan
+
 आर्य, *ā́rya*: "noble"
 
 ## Caste
+
  *casta*: "lineage"
 
 ## Sati
+
 सती, *sati*: "chaste woman"
 
 ## Swastika
+
 वस्तिक, *svastika*: "conducive to well-being"
 
 ## Hindutva
+
 *Hindutva*: “Hinduness"
 
 ## Dedication 
