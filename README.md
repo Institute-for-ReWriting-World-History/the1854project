@@ -80,7 +80,7 @@ Each chapter begins with a transcription of the word in question the original sc
 
 ## Epigraph 
 
->Indology: The academic study of the languages, cultures, histories, and religions of the Indian subcontinent.[^2]
+>Indology: The study of Indian history, literature, philosophy, and culture.
 
 ## Aryan
 आर्य, *ā́rya*: "noble"
