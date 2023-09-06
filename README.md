@@ -41,8 +41,8 @@ Subjects: 1. Sociology 2. Epistemology
 
 Author’s Note <br>
 A Note About This Book <br>
-Epigraph <br>
 Preface <br>
+Epigraph <br>
 
 1. Aryan
 2. Caste
