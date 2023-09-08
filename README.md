@@ -7,9 +7,7 @@
 The 1854 Project
 
 (the age of darkness)<br>
-
 by<br>
-
 Kardama Devahuti<br>
 
 ॐ असतो मा सद्गमय ।<br>
