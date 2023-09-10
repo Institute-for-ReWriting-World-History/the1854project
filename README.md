@@ -49,7 +49,7 @@ Epigraph <br>
 5. Hindutva
 
 Dedication <br>
-Acknowledgements <br>
+Acknowledgement <br>
 Contributors <br>
 Notes <br>
 Credits <br>
