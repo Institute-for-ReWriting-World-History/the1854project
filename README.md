@@ -104,7 +104,7 @@ Each chapter begins with a transcription of the word in question the original sc
 
 Indians—Past, Present and Future
 
-## Acknowledgements
+## Acknowledgement
 
 The 1619 Project
 
