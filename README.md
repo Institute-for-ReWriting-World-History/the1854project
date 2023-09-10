@@ -39,8 +39,8 @@ Subjects: 1. Sociology 2. Epistemology
 
 Author’s Note <br>
 A Note About This Book <br>
-Preface <br>
 Epigraph <br>
+Preface <br>
 
 1. Aryan
 2. Caste
@@ -60,13 +60,6 @@ Each chapter begins with a transcription of the word in question the original sc
 
 ## A Note About This Book
 
-> The word "dogma" comes from the Greek dok (ein) which may be translated as "seem good."
-> Equality, justice, freedom, democracy, all of these are dogmas for us today, just as
-> the Godhead, the Resurrection, and spiritual grace were (and still are)
-> dogmas for the christan community (Nisbet 22-23).
-
-## Preface 	
-
 >Truth is a thing of this world: it is produced only by virtue of multiple
 >forms of constraint.  And it induces regular effects of power.  Each society
 >has its regime of truth, its “general politics” of truth: that is, the types
@@ -75,6 +68,13 @@ Each chapter begins with a transcription of the word in question the original sc
 >by which each is sanctioned; the techniques and procedures accorded value in
 >the acquisition of truth; the status of those who are charged with saying
 >what counts as true (Foucault, *The Foucault reader* 72-73).
+
+## Preface 	
+
+> The word "dogma" comes from the Greek dok (ein) which may be translated as "seem good."
+> Equality, justice, freedom, democracy, all of these are dogmas for us today, just as
+> the Godhead, the Resurrection, and spiritual grace were (and still are)
+> dogmas for the christan community (Nisbet 22-23).
 
 ## Epigraph 
 
