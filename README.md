@@ -56,7 +56,7 @@ Credits <br>
    
 ## Author's Note
 
-Each chapter begins with a transcription of the word in question the original script, followed by a transliteration of the Word in ISO Latin 1 in italics, followed and a brief definition (translation) of the Word in English in parentheses.
+Each chapter begins with a transcription of the word in question the original script, followed by a transliteration of the Word in ISO Latin 1 in italics, followed and a brief translation of the Word in English in parentheses.
 
 ## A Note About This Book
 
