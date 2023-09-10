@@ -136,5 +136,5 @@ The 1619 Project
     
 ## Credits 
 
-1. Greenough, George Bellas, *General sketch of the physical and geological features of British India*, 1855.
+1. Greenough, George Bellas. *General sketch of the physical and geological features of British India*, 1855.
 
