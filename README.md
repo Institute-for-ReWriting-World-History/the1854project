@@ -152,7 +152,10 @@ House Publishing Group, 2021.
     
 ## Credits 
 
-1. Greenough, George Bellas. *General sketch of the physical and
+1. Müller, Friedrich Max. "The Aryan Settlers and the Aboriginal Races of India." 
+   Outlines of the Philosophy of Universal History Applied to Language and Religion, 
+   Longman, Brown, Green, and Longmans, 1854, Christian Karl Josias Freiherr von Bunsen.
+2. Greenough, George Bellas. *General sketch of the physical and
    geological features of British India*, 1855.
 
 [^1]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
