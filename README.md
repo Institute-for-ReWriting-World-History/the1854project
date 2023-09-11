@@ -84,8 +84,8 @@ Credits <br>
 
 > *Indology*: "The academic study of the languages, cultures, histories,
 > and religions of the Indian subcontinent."[^4]
-> 
-# Ārya(n) 
+
+## Ārya(n) 
 
 आर्य, *ā́rya*: "noble"[^5]
 
