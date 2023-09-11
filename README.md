@@ -42,7 +42,7 @@ A Note About This Book <br>
 Epigraph <br>
 Preface <br>
 
-1. Aryan
+1. Ārya(n)
 2. Caste
 3. Sati
 4. Swastika
@@ -56,49 +56,54 @@ Credits <br>
    
 ## Author's Note
 
-Each chapter begins with a transcription of the word in question the original script, followed by a transliteration of the Word in ISO Latin 1 in italics, followed and a brief translation of the Word in English in parentheses.
+> Each chapter begins with a Word in the original script, a
+> transliteration of the Word in ISO Latin 1 in italics, and a
+> translation of the Word in Modern English in quotes.
 
 ## A Note About This Book
 
->Truth is a thing of this world: it is produced only by virtue of multiple
->forms of constraint.  And it induces regular effects of power.  Each society
->has its regime of truth, its “general politics” of truth: that is, the types
->of discourse which it accepts and makes function as true; the mechanisms and
->instances which enable one to distinguish true and false statements, the means
->by which each is sanctioned; the techniques and procedures accorded value in
->the acquisition of truth; the status of those who are charged with saying
->what counts as true (Foucault, *The Foucault reader* 72-73).
+> Truth is a thing of this world: it is produced only by virtue of
+> multiple forms of constraint. And it induces regular effects of power.
+> Each society has its regime of truth, its “general politics” of truth:
+> that is, the types of discourse which it accepts and makes function as
+> true; the mechanisms and instances which enable one to distinguish
+> true and false statements, the means by which each is sanctioned; the
+> techniques and procedures accorded value in the acquisition of truth;
+> the status of those who are charged with saying what counts as true
+> (Foucault, *The Foucault reader* 72-73).[^2]
 
 ## Preface 	
 
-> The word "dogma" comes from the Greek dok (ein) which may be translated as "seem good."
-> Equality, justice, freedom, democracy, all of these are dogmas for us today, just as
-> the Godhead, the Resurrection, and spiritual grace were (and still are)
-> dogmas for the christan community (Nisbet 22-23).
+> The word "dogma" comes from the Greek dok (ein) which may be
+> translated as "seem good." Equality, justice, freedom, democracy, all
+> of these are dogmas for us today, just as the Godhead, the
+> Resurrection, and spiritual grace were (and still are) dogmas for the
+> christan community (Nisbet 22-23).[^3]
 
 ## Epigraph 
 
->*Indology*: "The academic study of the languages, cultures, histories, and religions of the Indian subcontinent."[^2]
+> *Indology*: "The academic study of the languages, cultures, histories,
+> and religions of the Indian subcontinent."[^4]
+> 
+# Ārya(n) 
 
-## Aryan
-
-आर्य, *ā́rya*: "noble"
+आर्य, *ā́rya*: "noble"[^5]
 
 ## Caste
 
- *casta*: "lineage"
+*casta*: "pure"[^6]
 
 ## Sati
 
-सती, *sati*: "chaste woman"
+सती, *sati*: "true"[^7]
 
 ## Swastika
 
-वस्तिक, *svastika*: "conducive to well-being"
+वस्तिक, *svastika*: "well being” [^8]
 
 ## Hindutva
 
-*Hindutva*: “Hinduness"
+*Hindutva*: “Hindu-ness”[^9]
 
 ## Dedication 
 
@@ -106,7 +111,7 @@ Indians—Past, Present and Future
 
 ## Acknowledgement
 
-The 1619 Project
+*The 1619 Project*[^10]
 
 ## Contributors 
 
@@ -114,27 +119,73 @@ The 1619 Project
 
 ## Notes 
 
-  Nisbet, R.A. *The Degradation of the Academic Dogma: The 
-    University in America, 1945-1970*. Pearson Education, 1971.
+Nisbet, R.A. *The Degradation of the Academic Dogma: The University in
+America, 1945-1970.* Pearson Education, 1971.
 
-  Foucault, Michel. The Foucault reader. United Kingdom, 
-    Knopf Doubleday Publishing Group, 1984.
+Foucault, Michel. *The Foucault Reader.* Knopf Doubleday Publishing
+Group, 1984.
 
-  Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિકશનરી [Etymological
-    Gujarati-English Dictionary].* 2nd Edition, Asian Educational
-    Services, 2002.
-    
-[^1]: તન-મન-ધન a. n. [See તન + મન + ધન] Lit. The body, the mind, and
-    one’s wealth. Hence, 2. All that one loves; the highest object of
-    one’s ambition (Belsare 577).
+Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિકશનરી \[Etymological
+Gujarati-English Dictionary\].* 2nd Edition, Asian Educational Services,
+2002.
 
-    Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિકશનરી [Etymological
-    Gujarati-English Dictionary].* 2nd Edition, Asian Educational
-    Services, 2002.
+Johnson, W.J. "Aryan.” *A Dictionary of Hinduism*, Oxford University
+Press, 2009, p. 28.
 
-[^2]: Oxford Dictionary of English. Oxford: Oxford University Press; 2014.
+---. "Caste.” *A Dictionary of Hinduism*, Oxford University Press, 2009,
+p. 80.
+
+---. "Hindutva.” *A Dictionary of Hinduism*, Oxford University Press,
+2009, p. 142.
+
+---. "Indology.” *A Dictionary of Hinduism*, Oxford University Press,
+2009, p. 147.
+
+---. "Sati.” *A Dictionary of Hinduism*, Oxford University Press, 2009,
+p. 293.
+
+---. "Swastika.” *A Dictionary of Hinduism*, Oxford University Press,
+2009, p. 316.
+
+Hannah-Jones, Nikole. *The 1619 Project: A New Origin Story.* Random
+House Publishing Group, 2021.
     
 ## Credits 
 
-1. Greenough, George Bellas. *General sketch of the physical and geological features of British India*, 1855.
+1. Greenough, George Bellas. *General sketch of the physical and
+   geological features of British India*, 1855.
 
+[^1]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
+    one’s wealth. Hence, 2. All that one loves; the highest object of
+    one’s ambition (Belsare, 577).
+
+    Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિકશનરી \[Etymological
+    Gujarati-English Dictionary\].* 2nd Edition, Asian Educational
+    Services, 2002.
+
+[^2]: Foucault, Michel. *The Foucault Reader.* Knopf Doubleday
+    Publishing Group, 1984.
+
+[^3]: Nisbet, R.A. *The Degradation of the Academic Dogma: The
+    University in America, 1945-1970.* Pearson Education, 1971.
+
+[^4]: Johnson, W.J. "Indology.” *A Dictionary of Hinduism*, Oxford
+    University Press, 2009, p. 147.
+
+[^5]: ---. "Aryan.” *A Dictionary of Hinduism*, Oxford University Press,
+    2009, p. 28.
+
+[^6]: ---. "Caste.” *A Dictionary of Hinduism*, Oxford University Press,
+    2009, p. 80.
+
+[^7]: ---. "Sati.” *A Dictionary of Hinduism*, Oxford University Press,
+    2009, p. 293.
+
+[^8]: ---. "Swastika.” *A Dictionary of Hinduism*, Oxford University
+    Press, 2009, p. 316.
+
+[^9]: ---. "Hindutva.” *A Dictionary of Hinduism*, Oxford University
+    Press, 2009, p. 142.
+
+[^10]: Hannah-Jones, Nikole. *The 1619 Project: A New Origin Story.*
+    Random House Publishing Group, 2021.
