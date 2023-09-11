@@ -129,7 +129,7 @@ Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિ�
 Gujarati-English Dictionary\].* 2nd Edition, Asian Educational Services,
 2002.
 
-Johnson, W.J. "Aryan.” *A Dictionary of Hinduism*, Oxford University
+Johnson, W.J. "Ārya(n).” *A Dictionary of Hinduism*, Oxford University
 Press, 2009, p. 28.
 
 ---. "Caste.” *A Dictionary of Hinduism*, Oxford University Press, 2009,
@@ -175,7 +175,7 @@ House Publishing Group, 2021.
 [^4]: Johnson, W.J. "Indology.” *A Dictionary of Hinduism*, Oxford
     University Press, 2009, p. 147.
 
-[^5]: ---. "Aryan.” *A Dictionary of Hinduism*, Oxford University Press,
+[^5]: ---. "Ārya(n).” *A Dictionary of Hinduism*, Oxford University Press,
     2009, p. 28.
 
 [^6]: ---. "Caste.” *A Dictionary of Hinduism*, Oxford University Press,
