@@ -39,8 +39,8 @@ Subjects: 1. Sociology 2. Epistemology
 
 Author’s Note <br>
 A Note About This Book <br>
-Epigraph <br>
 Preface <br>
+Epigraph <br>
 
 1. Ārya(n)
 2. Caste
@@ -82,8 +82,8 @@ Credits <br>
 
 ## Epigraph 
 
-> *Indology*: "The academic study of the languages, cultures, histories,
-> and religions of the Indian subcontinent."[^4]
+>*Indology*: "The academic study of the languages, cultures, histories,
+>and religions of the Indian subcontinent."[^4]
 
 ## Ārya(n) 
 
