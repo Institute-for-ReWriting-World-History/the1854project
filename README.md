@@ -39,8 +39,8 @@ Subjects: 1. Sociology 2. Epistemology
 
 Author’s Note <br>
 A Note About This Book <br>
-Preface <br>
 Epigraph <br>
+Preface <br>
 
 1. Ārya(n)
 2. Caste
@@ -62,18 +62,6 @@ Credits <br>
 
 ## A Note About This Book
 
-> Truth is a thing of this world: it is produced only by virtue of
-> multiple forms of constraint. And it induces regular effects of power.
-> Each society has its regime of truth, its “general politics” of truth:
-> that is, the types of discourse which it accepts and makes function as
-> true; the mechanisms and instances which enable one to distinguish
-> true and false statements, the means by which each is sanctioned; the
-> techniques and procedures accorded value in the acquisition of truth;
-> the status of those who are charged with saying what counts as true
-> (Foucault, *The Foucault reader* 72-73).[^2]
-
-## Preface 	
-
 > The word "dogma" comes from the Greek dok (ein) which may be
 > translated as "seem good." Equality, justice, freedom, democracy, all
 > of these are dogmas for us today, just as the Godhead, the
@@ -82,8 +70,16 @@ Credits <br>
 
 ## Epigraph 
 
->*Indology*: "The academic study of the languages, cultures, histories,
->and religions of the Indian subcontinent."[^4]
+> अविरोधितया कर्म नाविद्यां विनिवर्तयेत् | <br>
+> विद्याविद्या निहन्त्येव तेजस्तिमिरसङ्ववत् ||
+>
+> Action cannot destroy ignorance, as it is not opposed to ignorance. <br>
+> Knowledge does verily destroy ignorance just as light destroys deep darkness (Ātmabodha 3).
+
+## Preface 	
+
+> *Indology*: "The academic study of the languages, cultures, histories,
+> and religions of the Indian subcontinent."[^4]
 
 ## Ārya(n) 
 
