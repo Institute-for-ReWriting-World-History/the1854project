@@ -6,7 +6,7 @@
 
 The 1854 Project
 
-(age of darkness)[^1]<br>
+(age of dark*ness*)[^1]<br>
 by<br>
 Kardama Devahuti<br>
 
