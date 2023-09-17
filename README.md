@@ -66,15 +66,18 @@ Credits <br>
 > translated as "seem good." Equality, justice, freedom, democracy, all
 > of these are dogmas for us today, just as the Godhead, the
 > Resurrection, and spiritual grace were (and still are) dogmas for the
-> christan community (Nisbet 22-23).[^3]
+> christan community (Nisbet 22-23).[^2]
 
 ## Epigraph 
 
 > अविरोधितया कर्म नाविद्यां विनिवर्तयेत् | <br>
 > विद्याविद्या निहन्त्येव तेजस्तिमिरसङ्ववत् ||
 >
-> Action cannot destroy ignorance, as it is not opposed to ignorance. <br>
-> Knowledge does verily destroy ignorance just as light destroys deep darkness (Ātmabodha 3).
+> *avirodhitayã karma nävidyam vinivartayet* <br>
+> *vidyavidyam nihantyeva tejastimirasamghavat*
+>
+> Action cannot destroy ignorance, as it is not opposed to ignorance <br>
+> Knowledge does verily destroy ignorance just as light destroys deep darkness (Ātmabodha 3)[^3]
 
 ## Preface 	
 
@@ -115,11 +118,12 @@ Indians—Past, Present and Future
 
 ## Notes 
 
+Ādi Śaṅkarācārya. Self-Knowledge: An English Translation of Sankaracharya 
+Atmabodha with Notes, Comments, and Introduction. Translated by Swami Nikhilānand, 
+Sri Ramakrishna Math, 1947.
+
 Nisbet, R.A. *The Degradation of the Academic Dogma: The University in
 America, 1945-1970.* Pearson Education, 1971.
-
-Foucault, Michel. *The Foucault Reader.* Knopf Doubleday Publishing
-Group, 1984.
 
 Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિકશનરી \[Etymological
 Gujarati-English Dictionary\].* 2nd Edition, Asian Educational Services,
@@ -162,11 +166,12 @@ House Publishing Group, 2021.
     Gujarati-English Dictionary\].* 2nd Edition, Asian Educational
     Services, 2002.
 
-[^2]: Foucault, Michel. *The Foucault Reader.* Knopf Doubleday
-    Publishing Group, 1984.
-
-[^3]: Nisbet, R.A. *The Degradation of the Academic Dogma: The
+[^2]: Nisbet, R.A. *The Degradation of the Academic Dogma: The
     University in America, 1945-1970.* Pearson Education, 1971.
+
+[^3]: Ādi Śaṅkarācārya. Self-Knowledge: An English Translation of Sankaracharya 
+Atmabodha with Notes, Comments, and Introduction. Translated by Swami Nikhilānand, 
+Sri Ramakrishna Math, 1947.
 
 [^4]: Johnson, W.J. "Indology.” *A Dictionary of Hinduism*, Oxford
     University Press, 2009, p. 147.
