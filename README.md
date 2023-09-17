@@ -6,7 +6,7 @@
 
 The 1854 Project
 
-(age of darkness)<br>
+(age of darkness)[^1]<br>
 by<br>
 Kardama Devahuti<br>
 
@@ -26,7 +26,7 @@ system, stored in a database and / or published in any form or by any
 means, electronic, mechanical, photocopying, recording or otherwise,
 without the prior written permission of the publisher.
 
-Published in  કલા નગરી, *kalā nagarī*: "city of art" by મન, *man*: "mind"[^1]
+Published in  કલા નગરી, *kalā nagarī*: "city of art" by મન, *man*: "mind"[^2]
 
 Cataloging in Publication Data
 
@@ -66,7 +66,7 @@ translation of the Word in Modern English in quotes.
 > translated as "seem good." Equality, justice, freedom, democracy, all
 > of these are dogmas for us today, just as the Godhead, the
 > Resurrection, and spiritual grace were (and still are) dogmas for the
-> christan community (Nisbet 22-23).[^2]
+> christan community (Nisbet 22-23).[^3]
 
 ## Epigraph 
 
@@ -77,32 +77,32 @@ translation of the Word in Modern English in quotes.
 > *vidyavidyam nihantyeva tejastimirasamghavat*
 >
 > Action cannot destroy ignorance, as it is not opposed to ignorance <br>
-> Knowledge does verily destroy ignorance just as light destroys deep darkness (Ātmabodha 3)[^3]
+> Knowledge does verily destroy ignorance just as light destroys deep darkness (Ātmabodha 3)[^4]
 
 ## Preface 	
  
  *Indology*: "The academic study of the languages, cultures, histories,
- and religions of the Indian subcontinent."[^4]
+ and religions of the Indian subcontinent."[^5]
 
 ## Ārya(n) 
 
-आर्य, *ā́rya*: "noble"[^5]
+आर्य, *ā́rya*: "noble"[^6]
 
 ## Caste
 
-*casta*: "pure"[^6]
+*casta*: "pure"[^7]
 
 ## Sati
 
-सती, *sati*: "true"[^7]
+सती, *sati*: "true"[^8]
 
 ## Swastika
 
-वस्तिक, *svastika*: "well being” [^8]
+वस्तिक, *svastika*: "well being” [^9]
 
 ## Hindutva
 
-*Hindutva*: “Hindu-ness”[^9]
+*Hindutva*: “Hindu-ness”[^10]
 
 ## Dedication 
 
@@ -110,7 +110,7 @@ Indians—Past, Present and Future
 
 ## Acknowledgement
 
-*The 1619 Project*[^10]
+*The 1619 Project*[^11]
 
 ## Contributors 
 
@@ -118,18 +118,20 @@ Indians—Past, Present and Future
 
 ## Notes 
 
-Ādi Śaṅkarācārya. Self-Knowledge: An English Translation of Sankaracharya 
-Atmabodha with Notes, Comments, and Introduction. Translated by Swami Nikhilānand, 
-Sri Ramakrishna Math, 1947.
+Swami Nikhilānand. *Self-Knowledge: An English Translation of
+Sankaracharya Atmabodha with Notes, Comments, and Introduction.* Sri
+Ramakrishna Math, 1947.
 
 Nisbet, R.A. *The Degradation of the Academic Dogma: The University in
 America, 1945-1970.* Pearson Education, 1971.
+
+Guénon, R. *The Crisis of the Modern World.* Sophia Perennis, 2001.
 
 Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિકશનરી \[Etymological
 Gujarati-English Dictionary\].* 2nd Edition, Asian Educational Services,
 2002.
 
-Johnson, W.J. "Ārya(n).” *A Dictionary of Hinduism*, Oxford University
+Johnson, W.J. "Ārya(N).” *A Dictionary of Hinduism*, Oxford University
 Press, 2009, p. 28.
 
 ---. "Caste.” *A Dictionary of Hinduism*, Oxford University Press, 2009,
@@ -149,7 +151,7 @@ p. 293.
 
 Hannah-Jones, Nikole. *The 1619 Project: A New Origin Story.* Random
 House Publishing Group, 2021.
-    
+
 ## Credits 
 
 1. Müller, Friedrich Max. "The Aryan Settlers and the Aboriginal Races of India." 
@@ -158,7 +160,32 @@ House Publishing Group, 2021.
 2. Greenough, George Bellas. *General sketch of the physical and
    geological features of British India*, 1855.
 
-[^1]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
+[^1]: THE HINDU DOCTRINE teaches that a human cycle, to which it gives
+    the name Manvantara, is divided into four periods marking so many
+    stages during which the primordial spirituality becomes gradually
+    more and more obscured; these are the same periods that the ancient
+    traditions of the West called the Golden, Silver, Bronze, and Iron
+    Ages. We are now in the fourth age, the Kali-Yuga or ‘dark age’, and
+    have been so already, it is said, for more than six thousand years,
+    that is to say since a time far earlier than any known to
+    ‘classical’ history. Since that time, the truths which were formerly
+    within reach of all have become more and more hidden and
+    inaccessible; those who possess them grow fewer and fewer, and
+    although the treasure of ‘nonhuman’ (that is, supra-human) wisdom
+    that was prior to all the ages can never be lost, it nevertheless
+    becomes enveloped in more and more impenetrable veils, which hide it
+    from men’s sight and make it extremely difficult to discover. This
+    is why we find everywhere, under various symbols, the same theme of
+    something that has been lost—at least to all appearances and as far
+    as the outer world is concerned—and that those who aspire to true
+    knowledge must rediscover; but it is also said that what is thus
+    hidden will become visible again at the end of the cycle, which,
+    because of the continuity binding all things together, will coincide
+    with the beginning of a new cycle (Guénon 7).
+
+    Guénon, R. *The Crisis of the Modern World.* Sophia Perennis, 2001.
+
+[^2]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
     one’s wealth. Hence, 2. All that one loves; the highest object of
     one’s ambition (Belsare, 577).
 
@@ -166,30 +193,45 @@ House Publishing Group, 2021.
     Gujarati-English Dictionary\].* 2nd Edition, Asian Educational
     Services, 2002.
 
-[^2]: Nisbet, R.A. *The Degradation of the Academic Dogma: The
+[^3]: Nisbet, R.A. *The Degradation of the Academic Dogma: The
     University in America, 1945-1970.* Pearson Education, 1971.
 
-[^3]: Ādi Śaṅkarācārya. Self-Knowledge: An English Translation of Sankaracharya 
-   Atmabodha with Notes, Comments, and Introduction. Translated by Swami Nikhilānand, 
-   Sri Ramakrishna Math, 1947.
+[^4]: Action—Which is associated with the consciousness of doer,
+    instrument, and result.
 
-[^4]: Johnson, W.J. "Indology.” *A Dictionary of Hinduism*, Oxford
+    Knowledge—Of Non-duality.
+
+    Ignorance—Which conjures up the multiplicity of the relative world.
+    (See note on verse 5, p. 160). Ignorance must not be confused with
+    illiteracy or absence of book-knowledge. Vedanta declares that the
+    Knowledge of the non-duality of Brahman and Ātman is the only true
+    Knowledge; all else is ignorance. Any trace of duality belongs to
+    the state of ignorance. As such, the vision of a god or the
+    experience of happiness in heaven belongs to the realm of ignorance
+    (Swami Nikhilānand 157*)*.
+
+    Swami Nikhilānand. *Self-Knowledge: An English Translation of
+    Sankaracharya Atmabodha with Notes, Comments, and Introduction.* Sri
+    Ramakrishna Math, 1947.
+
+[^5]: Johnson, W.J. "Indology.” *A Dictionary of Hinduism*, Oxford
     University Press, 2009, p. 147.
 
-[^5]: ---. "Ārya(n).” *A Dictionary of Hinduism*, Oxford University Press,
-    2009, p. 28.
+[^6]: ---. "Ārya(N).” *A Dictionary of Hinduism*, Oxford University
+    Press, 2009, p. 28.
 
-[^6]: ---. "Caste.” *A Dictionary of Hinduism*, Oxford University Press,
+[^7]: ---. "Caste.” *A Dictionary of Hinduism*, Oxford University Press,
     2009, p. 80.
 
-[^7]: ---. "Sati.” *A Dictionary of Hinduism*, Oxford University Press,
+[^8]: ---. "Sati.” *A Dictionary of Hinduism*, Oxford University Press,
     2009, p. 293.
 
-[^8]: ---. "Swastika.” *A Dictionary of Hinduism*, Oxford University
+[^9]: ---. "Swastika.” *A Dictionary of Hinduism*, Oxford University
     Press, 2009, p. 316.
 
-[^9]: ---. "Hindutva.” *A Dictionary of Hinduism*, Oxford University
+[^10]: ---. "Hindutva.” *A Dictionary of Hinduism*, Oxford University
     Press, 2009, p. 142.
 
-[^10]: Hannah-Jones, Nikole. *The 1619 Project: A New Origin Story.*
+[^11]: Hannah-Jones, Nikole. *The 1619 Project: A New Origin Story.*
     Random House Publishing Group, 2021.
+
