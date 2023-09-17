@@ -56,9 +56,9 @@ Credits <br>
    
 ## Author's Note
 
-> Each chapter begins with a Word in the source script, a
-> transliteration of the Word in ISO Latin 1 in italics, and a
-> translation of the Word in Modern English in quotes.
+Each chapter begins with a Word in the source script, a
+transliteration of the Word in ISO Latin 1 in italics, and a
+translation of the Word in Modern English in quotes.
 
 ## A Note About This Book
 
