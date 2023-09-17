@@ -80,9 +80,9 @@ translation of the Word in Modern English in quotes.
 > Knowledge does verily destroy ignorance just as light destroys deep darkness (Ātmabodha 3)[^3]
 
 ## Preface 	
-
-> *Indology*: "The academic study of the languages, cultures, histories,
-> and religions of the Indian subcontinent."[^4]
+ 
+ *Indology*: "The academic study of the languages, cultures, histories,
+ and religions of the Indian subcontinent."[^4]
 
 ## Ārya(n) 
 
