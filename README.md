@@ -2,11 +2,11 @@
 
 ![img](The1854Project.jpg)
 
-## इकलियुग
+## इकलियुग[^1]
 
 The 1854 Project
 
-(age of dark*ness*)[^1]<br>
+a new retrospective<br>
 by<br>
 Kardama Devahuti<br>
 
