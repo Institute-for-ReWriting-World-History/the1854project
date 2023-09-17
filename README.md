@@ -170,8 +170,8 @@ House Publishing Group, 2021.
     University in America, 1945-1970.* Pearson Education, 1971.
 
 [^3]: Ādi Śaṅkarācārya. Self-Knowledge: An English Translation of Sankaracharya 
-Atmabodha with Notes, Comments, and Introduction. Translated by Swami Nikhilānand, 
-Sri Ramakrishna Math, 1947.
+   Atmabodha with Notes, Comments, and Introduction. Translated by Swami Nikhilānand, 
+   Sri Ramakrishna Math, 1947.
 
 [^4]: Johnson, W.J. "Indology.” *A Dictionary of Hinduism*, Oxford
     University Press, 2009, p. 147.
