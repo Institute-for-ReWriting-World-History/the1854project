@@ -2,7 +2,7 @@
 
 ![img](The1854Project.jpg)
 
-## इकलियुग[^1]
+## मन्वन्तर[^1]
 
 The 1854 Project
 
