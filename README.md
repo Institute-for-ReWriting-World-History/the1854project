@@ -162,9 +162,6 @@ House Publishing Group, 2021.
 
 [^1]: मनु, *manu*: "mankind" + अन्तर, *antara*: "period"
 
-   Sir Monier Monier-Williams. Dictionary, Sanskrit-English, Universität 
-   zu Köln, 1899, https://www.sanskrit-lexicon.uni-koeln.de. 
-
 [^2]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
     one’s wealth. Hence, 2. All that one loves; the highest object of
     one’s ambition (Belsare, 577).
