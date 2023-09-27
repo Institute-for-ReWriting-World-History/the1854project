@@ -160,7 +160,7 @@ House Publishing Group, 2021.
 2. Greenough, George Bellas. *General sketch of the physical and
    geological features of British India*, 1855.
 
-[^1]: मनु, *man*: "mankind" + अन्तर, *antara*: "period"
+[^1]: मनु, *manu*: "mankind" + अन्तर, *antara*: "period"
 
    Sir Monier Monier-Williams. Dictionary, Sanskrit-English, Universität 
    zu Köln, 1899, https://www.sanskrit-lexicon.uni-koeln.de. 
