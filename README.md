@@ -160,30 +160,10 @@ House Publishing Group, 2021.
 2. Greenough, George Bellas. *General sketch of the physical and
    geological features of British India*, 1855.
 
-[^1]: THE HINDU DOCTRINE teaches that a human cycle, to which it gives
-    the name Manvantara, is divided into four periods marking so many
-    stages during which the primordial spirituality becomes gradually
-    more and more obscured; these are the same periods that the ancient
-    traditions of the West called the Golden, Silver, Bronze, and Iron
-    Ages. We are now in the fourth age, the Kali-Yuga or ‘dark age’, and
-    have been so already, it is said, for more than six thousand years,
-    that is to say since a time far earlier than any known to
-    ‘classical’ history. Since that time, the truths which were formerly
-    within reach of all have become more and more hidden and
-    inaccessible; those who possess them grow fewer and fewer, and
-    although the treasure of ‘nonhuman’ (that is, supra-human) wisdom
-    that was prior to all the ages can never be lost, it nevertheless
-    becomes enveloped in more and more impenetrable veils, which hide it
-    from men’s sight and make it extremely difficult to discover. This
-    is why we find everywhere, under various symbols, the same theme of
-    something that has been lost—at least to all appearances and as far
-    as the outer world is concerned—and that those who aspire to true
-    knowledge must rediscover; but it is also said that what is thus
-    hidden will become visible again at the end of the cycle, which,
-    because of the continuity binding all things together, will coincide
-    with the beginning of a new cycle (Guénon 7).
+[^1]: मनु, *man*: "mankind" + अन्तर, *antara*: "period"
 
-    Guénon, R. *The Crisis of the Modern World.* Sophia Perennis, 2001.
+   Sir Monier Monier-Williams. Dictionary, Sanskrit-English, Universität 
+   zu Köln, 1899, https://www.sanskrit-lexicon.uni-koeln.de. 
 
 [^2]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
     one’s wealth. Hence, 2. All that one loves; the highest object of
