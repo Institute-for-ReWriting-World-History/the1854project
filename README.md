@@ -112,9 +112,15 @@ translation of the Word in Modern English in quotes.
 
 ## jati
 
+जाति, *jati*: 
+
 ## jīva
 
+जीव, *jiva*: 
+
 ## karma
+
+कर्मन्, *karma*: 
 
 ## sati
 
@@ -126,7 +132,7 @@ translation of the Word in Modern English in quotes.
 
 ## varna
 
-
+वर्ण, *varna*: 
 
 ## Dedication 
 
