@@ -31,7 +31,7 @@ Published in  કલા નગરી, *kalā nagarī*: "city of art" by મન, 
 Cataloging in Publication Data
 
 Name: Kardama Devahuti, 2023— author<br>
-Title: The Vedic context of religions of man/ Kardama Devahuti<br>
+Title: The 1854 Project/ Kardama Devahuti<br>
 ASIN:<br>
 Subjects: 1. Sociology 2. Epistemology
 
@@ -42,11 +42,17 @@ A Note About This Book <br>
 Epigraph <br>
 Preface <br>
 
-1. Ārya(n)
-2. Caste
-3. Sati
-4. Swastika
-5. Hindutva
+1. ārya(n)
+2. ātman
+3. brhamā
+4. caste
+5. jati
+6. jīva
+7. karma
+8. hindutva
+9. sati
+10. swastika
+11. varṇa
 
 Dedication <br>
 Acknowledgement <br>
@@ -84,25 +90,43 @@ translation of the Word in Modern English in quotes.
  *Indology*: "The academic study of the languages, cultures, histories,
  and religions of the Indian subcontinent."[^5]
 
-## Ārya(n) 
+## ārya(n) 
 
 आर्य, *ā́rya*: "noble"[^6]
 
-## Caste
+## ātman
+
+आत्मन्, *ātman*:  
+
+## brhamā
+
+ब्रह्मा, *brhamā*: 
+
+## caste
 
 *casta*: "pure"[^7]
 
-## Sati
+## hindutva
+
+*hindutva*: “hindu-ness”[^10]
+
+## jati
+
+## jīva
+
+## karma
+
+## sati
 
 सती, *sati*: "true"[^8]
 
-## Swastika
+## swastika
 
 वस्तिक, *svastika*: "well being” [^9]
 
-## Hindutva
+## varna
 
-*Hindutva*: “Hindu-ness”[^10]
+
 
 ## Dedication 
 
