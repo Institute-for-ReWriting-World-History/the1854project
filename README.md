@@ -44,9 +44,9 @@ Preface <br>
 
 1. Ārya(n)
 2. caste
-3. sati
-4. swastika
-5. Hindutva
+3. Hindutva
+4. sati
+5. swastika
 
 Dedication <br>
 Acknowledgement <br>
@@ -92,17 +92,18 @@ translation of the Word in Modern English in quotes.
 
 *casta*: "pure"[^7]
 
+## Hindutva
+
+*Hindutva*: “Hindu-ness”[^8]
+
 ## sati
 
-सती, *sati*: "true"[^8]
+सती, *sati*: "true"[^9]
 
 ## swastika
 
-वस्तिक, *svastika*: "well being” [^9]
+वस्तिक, *svastika*: "well being” [^10]
 
-## hindutva
-
-*Hindutva*: “Hindu-ness”[^10]
 
 ## Dedication 
 
@@ -200,14 +201,14 @@ House Publishing Group, 2021.
 [^7]: ---. "Caste.” *A Dictionary of Hinduism*, Oxford University Press,
     2009, p. 80.
 
-[^8]: ---. "Sati.” *A Dictionary of Hinduism*, Oxford University Press,
+[^8]: ---. "Hindutva.” *A Dictionary of Hinduism*, Oxford University
+    Press, 2009, p. 142.
+
+[^9]: ---. "Sati.” *A Dictionary of Hinduism*, Oxford University Press,
     2009, p. 293.
 
-[^9]: ---. "Swastika.” *A Dictionary of Hinduism*, Oxford University
+[^10]: ---. "Swastika.” *A Dictionary of Hinduism*, Oxford University
     Press, 2009, p. 316.
-
-[^10]: ---. "Hindutva.” *A Dictionary of Hinduism*, Oxford University
-    Press, 2009, p. 142.
 
 [^11]: Hannah-Jones, Nikole. *The 1619 Project: A New Origin Story.*
     Random House Publishing Group, 2021.
