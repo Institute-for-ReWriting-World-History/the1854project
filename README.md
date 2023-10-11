@@ -88,19 +88,19 @@ translation of the Word in Modern English in quotes.
 
 आर्य, *ā́rya*: "noble"[^6]
 
-## Caste
+## caste
 
 *casta*: "pure"[^7]
 
-## Sati
+## sati
 
 सती, *sati*: "true"[^8]
 
-## Swastika
+## swastika
 
 वस्तिक, *svastika*: "well being” [^9]
 
-## Hindutva
+## hindutva
 
 *Hindutva*: “Hindu-ness”[^10]
 
