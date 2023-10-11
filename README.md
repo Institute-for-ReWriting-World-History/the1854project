@@ -43,9 +43,9 @@ Epigraph <br>
 Preface <br>
 
 1. Ārya(n)
-2. Caste
-3. Sati
-4. Swastika
+2. caste
+3. sati
+4. swastika
 5. Hindutva
 
 Dedication <br>
