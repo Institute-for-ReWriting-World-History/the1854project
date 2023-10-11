@@ -90,49 +90,49 @@ translation of the Word in Modern English in quotes.
  *Indology*: "The academic study of the languages, cultures, histories,
  and religions of the Indian subcontinent."[^5]
 
-## ārya(n) 
+## Ārya(n) 
 
-आर्य, *ā́rya*: "noble"[^6]
+आर्य, *ā́rya*: "hospitable, noble, honourable"[^6]
 
 ## ātman
 
-आत्मन्, *ātman*:  
+आत्मन्, *ātman*: "self"[^7]
 
-## brhamā
+## Brahmā
 
-ब्रह्मा, *brhamā*: 
+ब्रह्मा, *Brahmā*: "the creator"[^8]
 
 ## caste
 
-*casta*: "pure"[^7]
+*casta*: "pure"[^9]
 
-## hindutva
+## Hindutva
 
-*hindutva*: “hindu-ness”[^10]
+*Hindutva*: “Hindu-ness”[^10]
 
 ## jati
 
-जाति, *jati*: 
+जाति, *jati*: "position assigned by birth, birth group"[^11]
 
 ## jīva
 
-जीव, *jiva*: 
+जीव, *jiva*: "living, life principle, embodied soul"[^12]
 
 ## karma
 
-कर्मन्, *karma*: 
+कर्मन्, *karma*: "act, action, activity, rite, motion"[^13]
 
 ## sati
 
-सती, *sati*: "true"[^8]
+सती, *sati*: "true or virtuous wife"[^14]
 
 ## swastika
 
-वस्तिक, *svastika*: "well being” [^9]
+वस्तिक, *svastika*: "well being”[^15]
 
 ## varna
 
-वर्ण, *varna*: 
+वर्ण, *varna*: "class, (lit.) colour"[^16]
 
 ## Dedication 
 
@@ -140,7 +140,7 @@ Indians—Past, Present and Future
 
 ## Acknowledgement
 
-*The 1619 Project*[^11]
+*The 1619 Project*[^17]
 
 ## Contributors 
 
@@ -237,6 +237,6 @@ House Publishing Group, 2021.
 [^10]: ---. "Hindutva.” *A Dictionary of Hinduism*, Oxford University
     Press, 2009, p. 142.
 
-[^11]: Hannah-Jones, Nikole. *The 1619 Project: A New Origin Story.*
+[^17]: Hannah-Jones, Nikole. *The 1619 Project: A New Origin Story.*
     Random House Publishing Group, 2021.
 
