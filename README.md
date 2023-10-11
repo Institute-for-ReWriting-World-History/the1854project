@@ -31,7 +31,7 @@ Published in  કલા નગરી, *kalā nagarī*: "city of art" by મન, 
 Cataloging in Publication Data
 
 Name: Kardama Devahuti, 2023— author<br>
-Title: The 1854 Project/ Kardama Devahuti<br>
+Title: The Vedic context of religions of man/ Kardama Devahuti<br>
 ASIN:<br>
 Subjects: 1. Sociology 2. Epistemology
 
@@ -42,19 +42,11 @@ A Note About This Book <br>
 Epigraph <br>
 Preface <br>
 
-1. Ārya(n) 
-2. ātman
-3. Brahmā
-4. caste
-5. jati
-6. jīva
-7. hindutva
-8. karma
-9. reincarnation
-10. sati
-11. swastika
-12. untouchables
-13. varṇa
+1. Ārya(n)
+2. Caste
+3. Sati
+4. Swastika
+5. Hindutva
 
 Dedication <br>
 Acknowledgement <br>
@@ -94,47 +86,23 @@ translation of the Word in Modern English in quotes.
 
 ## Ārya(n) 
 
-आर्य, *ā́rya*: "hospitable, noble, honourable"[^6]
+आर्य, *ā́rya*: "noble"[^6]
 
-## ātman
+## Caste
 
-आत्मन्, *ātman*: "self"[^7]
+*casta*: "pure"[^7]
 
-## Brahmā
+## Sati
 
-ब्रह्मा, *Brahmā*: "the creator"[^8]
+सती, *sati*: "true"[^8]
 
-## caste
+## Swastika
 
-*casta*: "pure"[^9]
+वस्तिक, *svastika*: "well being” [^9]
 
 ## Hindutva
 
 *Hindutva*: “Hindu-ness”[^10]
-
-## jati
-
-जाति, *jati*: "position assigned by birth, birth group"[^11]
-
-## jīva
-
-जीव, *jiva*: "living, life principle, embodied soul"[^12]
-
-## karma
-
-कर्मन्, *karma*: "act, action, activity, rite, motion"[^13]
-
-## sati
-
-सती, *sati*: "true or virtuous wife"[^14]
-
-## swastika
-
-वस्तिक, *svastika*: "well being”[^15]
-
-## varna
-
-वर्ण, *varna*: "class, (lit.) colour"[^16]
 
 ## Dedication 
 
@@ -142,7 +110,7 @@ Indians—Past, Present and Future
 
 ## Acknowledgement
 
-*The 1619 Project*[^17]
+*The 1619 Project*[^11]
 
 ## Contributors 
 
@@ -156,6 +124,8 @@ Ramakrishna Math, 1947.
 
 Nisbet, R.A. *The Degradation of the Academic Dogma: The University in
 America, 1945-1970.* Pearson Education, 1971.
+
+Guénon, R. *The Crisis of the Modern World.* Sophia Perennis, 2001.
 
 Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિકશનરી \[Etymological
 Gujarati-English Dictionary\].* 2nd Edition, Asian Educational Services,
@@ -226,37 +196,18 @@ House Publishing Group, 2021.
 
 [^6]: ---. "Ārya(N).” *A Dictionary of Hinduism*, Oxford University
     Press, 2009, p. 28.
-    
-[^7]: ---. "ātman.” *A Dictionary of Hinduism*, Oxford University
-    Press, 2009, p. 37.
 
-[^8]: ---. "Brahmā.” *A Dictionary of Hinduism*, Oxford University
-    Press, 2009, p. 61.
+[^7]: ---. "Caste.” *A Dictionary of Hinduism*, Oxford University Press,
+    2009, p. 80.
 
-[^9]: ---. "caste.” *A Dictionary of Hinduism*, Oxford University
-    Press, 2009, p. 80.
-    
-[^10]: ---. "Hindutva.” *A Dictionary of Hinduism*, Oxford University
-    Press, 2009, p. 28.
-    
-[^11]: ---. "jati.” *A Dictionary of Hinduism*, Oxford University Press,
-    2009, p. 155.
+[^8]: ---. "Sati.” *A Dictionary of Hinduism*, Oxford University Press,
+    2009, p. 293.
 
-[^12]: ---. "jīva.” *A Dictionary of Hinduism*, Oxford University Press,
-    2009, p. 157.
-
-[^13]: ---. "karma.” *A Dictionary of Hinduism*, Oxford University
-    Press, 2009, p. 169.
-
-[^14]: ---. "sati.” *A Dictionary of Hinduism*, Oxford University
-    Press, 2009, p. 293.
-
-[^15]: ---. "swastika.” *A Dictionary of Hinduism*, Oxford University
+[^9]: ---. "Swastika.” *A Dictionary of Hinduism*, Oxford University
     Press, 2009, p. 316.
 
-[^16]: ---. "varna.” *A Dictionary of Hinduism*, Oxford University
-    Press, 2009, p. 342.
+[^10]: ---. "Hindutva.” *A Dictionary of Hinduism*, Oxford University
+    Press, 2009, p. 142.
 
-[^17]: Hannah-Jones, Nikole. *The 1619 Project: A New Origin Story.*
+[^11]: Hannah-Jones, Nikole. *The 1619 Project: A New Origin Story.*
     Random House Publishing Group, 2021.
-
