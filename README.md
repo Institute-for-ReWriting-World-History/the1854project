@@ -42,9 +42,9 @@ A Note About This Book <br>
 Epigraph <br>
 Preface <br>
 
-1. ārya(n)
+1. Ārya(n) 
 2. ātman
-3. brhamā
+3. Brahmā
 4. caste
 5. jati
 6. jīva
