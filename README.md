@@ -48,11 +48,13 @@ Preface <br>
 4. caste
 5. jati
 6. jīva
-7. karma
-8. hindutva
-9. sati
-10. swastika
-11. varṇa
+7. hindutva
+8. karma
+9. reincarnation
+10. sati
+11. swastika
+12. untouchables
+13. varṇa
 
 Dedication <br>
 Acknowledgement <br>
@@ -224,18 +226,36 @@ House Publishing Group, 2021.
 
 [^6]: ---. "Ārya(N).” *A Dictionary of Hinduism*, Oxford University
     Press, 2009, p. 28.
+    
+[^7]: ---. "ātman.” *A Dictionary of Hinduism*, Oxford University
+    Press, 2009, p. 37.
 
-[^7]: ---. "Caste.” *A Dictionary of Hinduism*, Oxford University Press,
-    2009, p. 80.
+[^8]: ---. "Brahmā.” *A Dictionary of Hinduism*, Oxford University
+    Press, 2009, p. 61.
 
-[^8]: ---. "Sati.” *A Dictionary of Hinduism*, Oxford University Press,
-    2009, p. 293.
+[^9]: ---. "caste.” *A Dictionary of Hinduism*, Oxford University
+    Press, 2009, p. 80.
+    
+[^10]: ---. "Hindutva.” *A Dictionary of Hinduism*, Oxford University
+    Press, 2009, p. 28.
+    
+[^11]: ---. "jati.” *A Dictionary of Hinduism*, Oxford University Press,
+    2009, p. 155.
 
-[^9]: ---. "Swastika.” *A Dictionary of Hinduism*, Oxford University
+[^12]: ---. "jīva.” *A Dictionary of Hinduism*, Oxford University Press,
+    2009, p. 157.
+
+[^13]: ---. "karma.” *A Dictionary of Hinduism*, Oxford University
+    Press, 2009, p. 169.
+
+[^14]: ---. "sati.” *A Dictionary of Hinduism*, Oxford University
+    Press, 2009, p. 293.
+
+[^15]: ---. "swastika.” *A Dictionary of Hinduism*, Oxford University
     Press, 2009, p. 316.
 
-[^10]: ---. "Hindutva.” *A Dictionary of Hinduism*, Oxford University
-    Press, 2009, p. 142.
+[^16]: ---. "varna.” *A Dictionary of Hinduism*, Oxford University
+    Press, 2009, p. 342.
 
 [^17]: Hannah-Jones, Nikole. *The 1619 Project: A New Origin Story.*
     Random House Publishing Group, 2021.
