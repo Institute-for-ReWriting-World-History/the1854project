@@ -44,7 +44,7 @@ Preface <br>
 
 1. Ārya(n)
 2. caste
-3. Hindutva
+3. Hindu
 4. sati
 5. swastika
 
@@ -92,9 +92,9 @@ translation of the Word in Modern English in quotes.
 
 *casta*: "pure"[^7]
 
-## Hindutva
+## Hindu
 
-*Hindutva*: “Hindu-ness”[^8]
+सिन्धु, *sindhu*: “river”[^8]
 
 ## sati
 
@@ -103,7 +103,6 @@ translation of the Word in Modern English in quotes.
 ## swastika
 
 वस्तिक, *svastika*: "well being” [^10]
-
 
 ## Dedication 
 
@@ -138,8 +137,8 @@ Press, 2009, p. 28.
 ---. "Caste.” *A Dictionary of Hinduism*, Oxford University Press, 2009,
 p. 80.
 
----. "Hindutva.” *A Dictionary of Hinduism*, Oxford University Press,
-2009, p. 142.
+---. "Hindu.” *A Dictionary of Hinduism*, Oxford University Press,
+2009, p. 141.
 
 ---. "Indology.” *A Dictionary of Hinduism*, Oxford University Press,
 2009, p. 147.
@@ -201,8 +200,8 @@ House Publishing Group, 2021.
 [^7]: ---. "Caste.” *A Dictionary of Hinduism*, Oxford University Press,
     2009, p. 80.
 
-[^8]: ---. "Hindutva.” *A Dictionary of Hinduism*, Oxford University
-    Press, 2009, p. 142.
+[^8]: ---. "Hindu.” *A Dictionary of Hinduism*, Oxford University
+    Press, 2009, p. 141.
 
 [^9]: ---. "Sati.” *A Dictionary of Hinduism*, Oxford University Press,
     2009, p. 293.
