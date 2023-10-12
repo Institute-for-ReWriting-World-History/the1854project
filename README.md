@@ -142,7 +142,7 @@ Press, 2009, p. 28.
 ---. "caste.” *A Dictionary of Hinduism*, Oxford University Press, 2009,
 p. 80.
 
----. "hindu.” *A Dictionary of Hinduism*, Oxford University Press,
+---. "Hindu.” *A Dictionary of Hinduism*, Oxford University Press,
 2009, p. 141.
 
 ---. "Indology.” *A Dictionary of Hinduism*, Oxford University Press,
