@@ -107,7 +107,7 @@ translation of the Word in Modern English in quotes.
 
 ## swastika
 
-वस्तिक, *svastika*: "well being” [^11]
+वस्तिक, *svastika*: "well being”[^11]
 
 ## Dedication 
 
