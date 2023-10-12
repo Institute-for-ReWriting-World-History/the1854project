@@ -45,8 +45,9 @@ Preface <br>
 1. Ārya(n)
 2. caste
 3. Hindu
-4. sati
-5. swastika
+4. karma
+5. sati
+6. swastika
 
 Dedication <br>
 Acknowledgement <br>
@@ -96,13 +97,17 @@ translation of the Word in Modern English in quotes.
 
 सिन्धु, *sindhu*: “river”[^8]
 
+## karma
+
+कर्मन्, *karma*: “action”[^9]
+
 ## sati
 
-सती, *sati*: "true"[^9]
+सती, *sati*: "true"[^10]
 
 ## swastika
 
-वस्तिक, *svastika*: "well being” [^10]
+वस्तिक, *svastika*: "well being” [^11]
 
 ## Dedication 
 
@@ -110,7 +115,7 @@ Indians—Past, Present and Future
 
 ## Acknowledgement
 
-*The 1619 Project*[^11]
+*The 1619 Project*[^12]
 
 ## Contributors 
 
@@ -134,19 +139,22 @@ Gujarati-English Dictionary\].* 2nd Edition, Asian Educational Services,
 Johnson, W.J. "Ārya(N).” *A Dictionary of Hinduism*, Oxford University
 Press, 2009, p. 28.
 
----. "Caste.” *A Dictionary of Hinduism*, Oxford University Press, 2009,
+---. "caste.” *A Dictionary of Hinduism*, Oxford University Press, 2009,
 p. 80.
 
----. "Hindu.” *A Dictionary of Hinduism*, Oxford University Press,
+---. "hindu.” *A Dictionary of Hinduism*, Oxford University Press,
 2009, p. 141.
 
 ---. "Indology.” *A Dictionary of Hinduism*, Oxford University Press,
 2009, p. 147.
 
----. "Sati.” *A Dictionary of Hinduism*, Oxford University Press, 2009,
+---. "karma.” *A Dictionary of Hinduism*, Oxford University Press,
+2009, p. 169.
+
+---. "sati.” *A Dictionary of Hinduism*, Oxford University Press, 2009,
 p. 293.
 
----. "Swastika.” *A Dictionary of Hinduism*, Oxford University Press,
+---. "swastika.” *A Dictionary of Hinduism*, Oxford University Press,
 2009, p. 316.
 
 Hannah-Jones, Nikole. *The 1619 Project: A New Origin Story.* Random
@@ -197,17 +205,20 @@ House Publishing Group, 2021.
 [^6]: ---. "Ārya(N).” *A Dictionary of Hinduism*, Oxford University
     Press, 2009, p. 28.
 
-[^7]: ---. "Caste.” *A Dictionary of Hinduism*, Oxford University Press,
+[^7]: ---. "caste.” *A Dictionary of Hinduism*, Oxford University Press,
     2009, p. 80.
 
 [^8]: ---. "Hindu.” *A Dictionary of Hinduism*, Oxford University
     Press, 2009, p. 141.
 
-[^9]: ---. "Sati.” *A Dictionary of Hinduism*, Oxford University Press,
+[^9]: ---. "karma.” *A Dictionary of Hinduism*, Oxford University
+    Press, 2009, p. 169.
+
+[^10]: ---. "sati.” *A Dictionary of Hinduism*, Oxford University Press,
     2009, p. 293.
 
-[^10]: ---. "Swastika.” *A Dictionary of Hinduism*, Oxford University
+[^11]: ---. "swastika.” *A Dictionary of Hinduism*, Oxford University
     Press, 2009, p. 316.
 
-[^11]: Hannah-Jones, Nikole. *The 1619 Project: A New Origin Story.*
+[^12]: Hannah-Jones, Nikole. *The 1619 Project: A New Origin Story.*
     Random House Publishing Group, 2021.
