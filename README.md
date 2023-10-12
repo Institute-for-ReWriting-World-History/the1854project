@@ -130,8 +130,6 @@ Ramakrishna Math, 1947.
 Nisbet, R.A. *The Degradation of the Academic Dogma: The University in
 America, 1945-1970.* Pearson Education, 1971.
 
-Guénon, R. *The Crisis of the Modern World.* Sophia Perennis, 2001.
-
 Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિકશનરી \[Etymological
 Gujarati-English Dictionary\].* 2nd Edition, Asian Educational Services,
 2002.
