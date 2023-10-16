@@ -123,8 +123,10 @@ Indians—Past, Present and Future
 
 ## Notes 
 
-Sir Monier Monier-Williams. *Dictionary, Sanskrit-English*, Universität
-zu Köln, 1899, <https://www.sanskrit-lexicon.uni-koeln.de>.
+Sir Monier Monier-Williams. *A Sanskṛit-English dictionary
+etymologically and philologically arranged with special reference to
+Greek, Latin, Gothic, German, Anglo-Saxon, and other cognate
+Indo-European languages*, The Clarendon Press, 1872.
 
 Swami Nikhilānand. *Self-Knowledge: An English Translation of
 Sankaracharya Atmabodha with Notes, Comments, and Introduction.* Sri
@@ -170,9 +172,11 @@ House Publishing Group, 2021.
    geological features of British India*, 1855.
 
 [^1]: मनु, *manu*: "mankind" + अन्तर, *antara*: "period"
-  Sir Monier Monier-Williams. *Dictionary, Sanskrit-English*,
-    Universität zu Köln, 1899,
-    https://www.sanskrit-lexicon.uni-koeln.de.
+
+    Sir Monier Monier-Williams. *A Sanskṛit-English dictionary
+    etymologically and philologically arranged with special reference to
+    Greek, Latin, Gothic, German, Anglo-Saxon, and other cognate
+    Indo-European languages*, The Clarendon Press, 1872.
 
 [^2]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
     one’s wealth. Hence, 2. All that one loves; the highest object of
