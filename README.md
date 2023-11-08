@@ -2,7 +2,7 @@
 
 ![img](The1854Project.jpg)
 
-## मन्वन्तर[^1]
+## A Table Alphabeticall[^1]
 
 The 1854 Project
 
@@ -123,10 +123,14 @@ Indians—Past, Present and Future
 
 ## Notes 
 
-Sir Monier Monier-Williams. *A Sanskṛit-English dictionary
-etymologically and philologically arranged with special reference to
-Greek, Latin, Gothic, German, Anglo-Saxon, and other cognate
-Indo-European languages*, The Clarendon Press, 1872.
+Cawdry, Robert. *A Table Alphabeticall, Contayning and Teaching the True
+Writing and Vnderstanding of Hard Vsuall English Words, Borrowed from
+the Hebrew, Greeke, Latine, or French &C. With the Interpretation
+Thereof by Plaine English Words, Gathered for the Benefit and Help of
+All Vnskilfull Persons. Whereby They May the More Easily and Better
+Vnderstand Many Hard English Words, Which They Shall Heare or Read in
+Scriptures, Sermons, or Elsewhere, and Also Be Made Able to Vse the Same
+Aptly Themselues.* W. I. for Edmund Weauer, 1604.
 
 Swami Nikhilānand. *Self-Knowledge: An English Translation of
 Sankaracharya Atmabodha with Notes, Comments, and Introduction.* Sri
@@ -171,12 +175,15 @@ House Publishing Group, 2021.
 2. Greenough, George Bellas. *General sketch of the physical and
    geological features of British India*, 1855.
 
-[^1]: मनु, *manu*: "mankind" + अन्तर, *antara*: "period"
-
-    Sir Monier Monier-Williams. *A Sanskṛit-English dictionary
-    etymologically and philologically arranged with special reference to
-    Greek, Latin, Gothic, German, Anglo-Saxon, and other cognate
-    Indo-European languages*, The Clarendon Press, 1872.
+[^1]: Cawdry, Robert. *A Table Alphabeticall, Contayning and Teaching
+    the True Writing and Vnderstanding of Hard Vsuall English Words,
+    Borrowed from the Hebrew, Greeke, Latine, or French &C. With the
+    Interpretation Thereof by Plaine English Words, Gathered for the
+    Benefit and Help of All Vnskilfull Persons. Whereby They May the
+    More Easily and Better Vnderstand Many Hard English Words, Which
+    They Shall Heare or Read in Scriptures, Sermons, or Elsewhere, and
+    Also Be Made Able to Vse the Same Aptly Themselues.* W. I. for
+    Edmund Weauer, 1604.
 
 [^2]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
     one’s wealth. Hence, 2. All that one loves; the highest object of
