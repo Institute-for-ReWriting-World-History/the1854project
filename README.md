@@ -189,10 +189,6 @@ House Publishing Group, 2021.
     one’s wealth. Hence, 2. All that one loves; the highest object of
     one’s ambition (Belsare, 577).
 
-    Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિકશનરી \[Etymological
-    Gujarati-English Dictionary\].* 2nd Edition, Asian Educational
-    Services, 2002.
-
 [^3]: Nisbet, R.A. *The Degradation of the Academic Dogma: The
     University in America, 1945-1970.* Pearson Education, 1971.
 
