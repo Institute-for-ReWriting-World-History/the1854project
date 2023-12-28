@@ -220,7 +220,7 @@ House Publishing Group, 2021.
     cultural hegemony over South India by around the 6th century CE. 
     Controversy, some of it fierce and politically tendentious, 
     has come to surround the question of their pre-history 
-    and origins... (Johnson, 28-29).
+    and origins...(Johnson, 28-29).
 
 [^7]: <b>caste</b> A term claimed to be derived from the Portuguese 'casta' 
     ('pure', and widely adopted to designate the principle on which 
@@ -230,7 +230,7 @@ House Publishing Group, 2021.
     birth'), the former indicating a *Brah-manically established, 
     idealized hierarchy based on social function, the latter a 
     complex social reality composed of 'castes', 'subcastes', and 
-    'sub-subcastes'... (Johnson, 80).
+    'sub-subcastes'...(Johnson, 80).
 
 [^8]: <b>Hindu</b> Hindu A word derived from Persian, Greek, and *Muslim 
     renderings of the *Sanskrit term for the river Sindhu 
@@ -241,7 +241,7 @@ House Publishing Group, 2021.
     In its developed form, the lynchpin of a theory, or doctrine ("the 
     law of karma), which attempts to account for the origins and nature 
     of an individual's mortal existence and suffering in the light of 
-    his or her actions (karma), past and present.(Johonson, 169).
+    his or her actions (karma), past and present...(Johonson, 169).
 
 [^10]: <b>sati</b> ...('true' or 'virtuous wife')) A woman who expresses 
     her faithful devotion to her husband, and avoids the supposed 
