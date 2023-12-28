@@ -233,8 +233,14 @@ House Publishing Group, 2021.
     known as sahamarana ('dying together'), sahagamana (going together'), 
     or anumarana ('dying after') (Johnson, 293).
 
-[^11]: <b>svastika (swastika)</b> A pan-Indian* auspicious sign, 
-   variously explained, but probably in origin a solar symbol (Johnson, 316).
+[^11]: <b>svastika (swastika)</b> A pan-Indian *auspicious sign, variously 
+    explained, but probably in origin a solar symbol. Some derive it from 
+    the *Sanskrit su+ asti, 'well being'/'good fortune'; some also distinguish 
+    between svastikas with right-handed (clockwise-pointing) arms, which 
+    are auspicious, since they represent the sun ascending towards the 
+    summer solstice, and those with left-handed (anti-clockwise-pointing) 
+    arms, which are inauspicious since they represent the sun descending 
+    towards the winter solstice  (Johnson, 316).
 
 [^12]: Hannah-Jones, Nikole. *The 1619 Project: A New Origin Story.*
     Random House Publishing Group, 2021.
