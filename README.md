@@ -119,7 +119,7 @@ Indians—Past, Present and Future
 
 ## Contributors 
 
-**Kardama Devahuti** is a staff writer at *The Institute for ReWriting World History*. 
+**Joker** is a staff writer at *The Institute for ReWriting World History*. 
 
 ## Notes 
 
