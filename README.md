@@ -232,7 +232,7 @@ House Publishing Group, 2021.
     known as sahamarana ('dying together'), sahagamana (going together'), 
     or anumarana ('dying after')...(Johnson, 293).
 
-[^11]: <b>svastika (swastika)</b> A pan-Indian *aus-picious sign, 
+[^11]: <b>svastika (swastika)</b> A pan-Indian* auspicious sign, 
    variously explained, but probably in origin a solar symbol...(Johnson, 316).
 
 [^12]: Hannah-Jones, Nikole. *The 1619 Project: A New Origin Story.*
