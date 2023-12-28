@@ -157,15 +157,9 @@ House Publishing Group, 2021.
 2. Greenough, George Bellas. *General sketch of the physical and
    geological features of British India*, 1855.
 
-[^1]: Cawdry, Robert. *A Table Alphabeticall, Contayning and Teaching
-    the True Writing and Vnderstanding of Hard Vsuall English Words,
-    Borrowed from the Hebrew, Greeke, Latine, or French &C. With the
-    Interpretation Thereof by Plaine English Words, Gathered for the
-    Benefit and Help of All Vnskilfull Persons. Whereby They May the
-    More Easily and Better Vnderstand Many Hard English Words, Which
-    They Shall Heare or Read in Scriptures, Sermons, or Elsewhere, and
-    Also Be Made Able to Vse the Same Aptly Themselues.* W. I. for
-    Edmund Weauer, 1604.
+[^1]: A Table Alphabeticall, Contayning and Teaching the True Writing and 
+    Vnderstanding of Hard Vsuall English Words, Borrowed from the Hebrew, 
+    Greeke, Latine, or French &C. (Cawdry A4).
 
 [^2]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
     one’s wealth. Hence, 2. All that one loves; the highest object of
@@ -186,12 +180,8 @@ House Publishing Group, 2021.
     Knowledge; all else is ignorance. Any trace of duality belongs to
     the state of ignorance. As such, the vision of a god or the
     experience of happiness in heaven belongs to the realm of ignorance
-    (Swami Nikhilānand 157*)*.
-
-    Swami Nikhilānand. *Self-Knowledge: An English Translation of
-    Sankaracharya Atmabodha with Notes, Comments, and Introduction.* Sri
-    Ramakrishna Math, 1947.
-
+    (Swami Nikhilānand, 157).
+    
 [^5]: <b>Indology</b> The academic study of the languages, cultures, histories, 
     and religions of the Indian subcontinent (Johnson, 147).
 
@@ -210,7 +200,7 @@ House Publishing Group, 2021.
     traditional Indian society is perceived to be organized (the caste 
     system'). The *Sanskrit equivalents are *varna ('class' (lit. 
     'colour')) and, more accurately, *jäti ('[position assigned by] 
-    birth'), the former indicating a *Brah-manically established, 
+    birth'), the former indicating a *Brahmanically established, 
     idealized hierarchy based on social function, the latter a 
     complex social reality composed of 'castes', 'subcastes', and 
     'sub-subcastes'(Johnson, 80).
@@ -242,5 +232,11 @@ House Publishing Group, 2021.
     arms, which are inauspicious since they represent the sun descending 
     towards the winter solstice  (Johnson, 316).
 
-[^12]: Hannah-Jones, Nikole. *The 1619 Project: A New Origin Story.*
-    Random House Publishing Group, 2021.
+[^12]: I was maybe fifteen or sixteen when I first came across the 
+    date 1619. Whenever I think about that moment, my mind conjures 
+    an image of glowing three-dimensional numbers rising from the page. 
+    Of course, in reality, they were printed in plain black text on 
+    the cheap page of a paperback. Still, while the numbers did not 
+    literally glow, I remember sitting back in my chair and staring 
+    at the date, a bit confused, thrown off-kilter by an exhilarating 
+    revelation starting to sink in (Hannah-Jones xvii).
