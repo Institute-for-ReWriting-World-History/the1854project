@@ -213,7 +213,7 @@ House Publishing Group, 2021.
 [^5]: Indology: The academic study of the languages, cultures, histories, 
     and religions of the Indian subcontinent (Johnson, 147).
 
-[^6]: Ārya(n): 1. The self-designation of the people whose language 
+[^6]: <b>Ārya(n)</b> 1. The self-designation of the people whose language 
     (*Sanskrit) and culture (*Vedic) dominated northern India from the 
     middle of the 2nd millennium BCE, and who slowly spread their 
     influence through the sub-continent, establishing a degree of 
@@ -222,7 +222,7 @@ House Publishing Group, 2021.
     has come to surround the question of their pre-history 
     and origins... (Johnson, 28-29).
 
-[^7]: caste: A term claimed to be derived from the Portuguese 'casta' 
+[^7]: <b>caste</b> A term claimed to be derived from the Portuguese 'casta' 
     ('pure', and widely adopted to designate the principle on which 
     traditional Indian society is perceived to be organized (the caste 
     system'). The *Sanskrit equivalents are *varna ('class' (lit. 
@@ -232,17 +232,26 @@ House Publishing Group, 2021.
     complex social reality composed of 'castes', 'subcastes', and 
     'sub-subcastes'... (Johnson, 80).
 
-[^8]: ---. "Hindu.” *A Dictionary of Hinduism*, Oxford University
-    Press, 2009, p. 141.
+[^8]: <b>Hindu</b> Hindu A word derived from Persian, Greek, and *Muslim 
+    renderings of the *Sanskrit term for the river Sindhu 
+    (sub-sequently known as the *Indus), designating the 
+    population to the east of that river...(Johnson, 141).
 
-[^9]: ---. "karma.” *A Dictionary of Hinduism*, Oxford University
-    Press, 2009, p. 169.
+[^9]: <b>karma(karman)</b> ('act, 'action, 'activity,'rite', 'motion') 
+    In its developed form, the lynchpin of a theory, or doctrine ("the 
+    law of karma), which attempts to account for the origins and nature 
+    of an individual's mortal existence and suffering in the light of 
+    his or her actions (karma), past and present.(Johonson, 169).
 
-[^10]: ---. "sati.” *A Dictionary of Hinduism*, Oxford University Press,
-    2009, p. 293.
+[^10]: <b>sati</b> ...('true' or 'virtuous wife')) A woman who expresses 
+    her faithful devotion to her husband, and avoids the supposed 
+    *inauspiciousness of "widowhood, by (in theory, voluntarily) 
+    immolating herself on her husband's "funeral pyre, in a practice 
+    known as sahamarana ('dying together'), sahagamana (going together'), 
+    or anumarana ('dying after')...(Johnson, 293).
 
-[^11]: ---. "swastika.” *A Dictionary of Hinduism*, Oxford University
-    Press, 2009, p. 316.
+[^11]: <b>svastika (swastika)</b> A pan-Indian *aus-picious sign, 
+   variously explained, but probably in origin a solar symbol...(Johnson, 316).
 
 [^12]: Hannah-Jones, Nikole. *The 1619 Project: A New Origin Story.*
     Random House Publishing Group, 2021.
