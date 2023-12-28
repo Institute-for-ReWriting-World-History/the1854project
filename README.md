@@ -163,7 +163,7 @@ House Publishing Group, 2021.
 
 [^2]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
     one’s wealth. Hence, 2. All that one loves; the highest object of
-    one’s ambition (Belsare, 577).
+    one’s ambition (Belsare 577).
 
 [^3]: Nisbet, R.A. *The Degradation of the Academic Dogma: The
     University in America, 1945-1970.* Pearson Education, 1971.
@@ -180,10 +180,10 @@ House Publishing Group, 2021.
     Knowledge; all else is ignorance. Any trace of duality belongs to
     the state of ignorance. As such, the vision of a god or the
     experience of happiness in heaven belongs to the realm of ignorance
-    (Swami Nikhilānand, 157).
+    (Swami Nikhilānand 157).
     
 [^5]: <b>Indology</b> The academic study of the languages, cultures, histories, 
-    and religions of the Indian subcontinent (Johnson, 147).
+    and religions of the Indian subcontinent (Johnson 147).
 
 [^6]: <b>Ārya(n)</b> (‘hospitable’, ‘noble’, ‘honourable’) 1. The 
     self-designation of the people whose language (*Sanskrit) and 
@@ -193,7 +193,7 @@ House Publishing Group, 2021.
     hegemony over South India by around the 6th century CE. 
     Controversy, some of it fierce and politically tendentious, 
     has come to surround the question of their pre-history 
-    and origins (Johnson, 28-29).
+    and origins (Johnson 28-29).
 
 [^7]: <b>caste</b> A term claimed to be derived from the Portuguese 'casta' 
     ('pure', and widely adopted to designate the principle on which 
@@ -203,25 +203,25 @@ House Publishing Group, 2021.
     birth'), the former indicating a *Brahmanically established, 
     idealized hierarchy based on social function, the latter a 
     complex social reality composed of 'castes', 'subcastes', and 
-    'sub-subcastes'(Johnson, 80).
+    'sub-subcastes'(Johnson 80).
 
 [^8]: <b>Hindu</b> A word derived from Persian, Greek, and *Muslim 
     renderings of the *Sanskrit term for the river Sindhu 
     (sub-sequently known as the *Indus), designating the 
-    population to the east of that river (Johnson, 141).
+    population to the east of that river (Johnson 141).
 
 [^9]: <b>karma(karman)</b> ('act, 'action, 'activity,'rite', 'motion') 
     In its developed form, the lynchpin of a theory, or doctrine ("the 
     law of karma), which attempts to account for the origins and nature 
     of an individual's mortal existence and suffering in the light of 
-    his or her actions (karma), past and present (Johonson, 169).
+    his or her actions (karma), past and present (Johonson 169).
 
 [^10]: <b>sati</b> ('true' or 'virtuous wife')) A woman who expresses 
     her faithful devotion to her husband, and avoids the supposed 
     *inauspiciousness of "widowhood, by (in theory, voluntarily) 
     immolating herself on her husband's "funeral pyre, in a practice 
     known as sahamarana ('dying together'), sahagamana (going together'), 
-    or anumarana ('dying after') (Johnson, 293).
+    or anumarana ('dying after') (Johnson 293).
 
 [^11]: <b>svastika (swastika)</b> A pan-Indian *auspicious sign, variously 
     explained, but probably in origin a solar symbol. Some derive it from 
@@ -230,7 +230,7 @@ House Publishing Group, 2021.
     are auspicious, since they represent the sun ascending towards the 
     summer solstice, and those with left-handed (anti-clockwise-pointing) 
     arms, which are inauspicious since they represent the sun descending 
-    towards the winter solstice  (Johnson, 316).
+    towards the winter solstice  (Johnson 316).
 
 [^12]: I was maybe fifteen or sixteen when I first came across the 
     date 1619. Whenever I think about that moment, my mind conjures 
