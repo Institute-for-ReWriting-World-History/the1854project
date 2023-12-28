@@ -214,7 +214,7 @@ House Publishing Group, 2021.
     complex social reality composed of 'castes', 'subcastes', and 
     'sub-subcastes'...(Johnson, 80).
 
-[^8]: <b>Hindu</b> Hindu A word derived from Persian, Greek, and *Muslim 
+[^8]: <b>Hindu</b> A word derived from Persian, Greek, and *Muslim 
     renderings of the *Sanskrit term for the river Sindhu 
     (sub-sequently known as the *Indus), designating the 
     population to the east of that river...(Johnson, 141).
