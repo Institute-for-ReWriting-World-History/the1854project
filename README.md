@@ -210,7 +210,7 @@ House Publishing Group, 2021.
     Sankaracharya Atmabodha with Notes, Comments, and Introduction.* Sri
     Ramakrishna Math, 1947.
 
-[^5]: Indology: The academic study of the languages, cultures, histories, 
+[^5]: <b>Indology</b> The academic study of the languages, cultures, histories, 
     and religions of the Indian subcontinent (Johnson, 147).
 
 [^6]: <b>Ārya(n)</b> 1. The self-designation of the people whose language 
