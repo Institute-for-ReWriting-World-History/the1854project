@@ -210,14 +210,27 @@ House Publishing Group, 2021.
     Sankaracharya Atmabodha with Notes, Comments, and Introduction.* Sri
     Ramakrishna Math, 1947.
 
-[^5]: Johnson, W.J. "Indology.” *A Dictionary of Hinduism*, Oxford
-    University Press, 2009, p. 147.
+[^5]: Indology: The academic study of the languages, cultures, histories, 
+    and religions of the Indian subcontinent (Johnson, 147).
 
-[^6]: ---. "Ārya(N).” *A Dictionary of Hinduism*, Oxford University
-    Press, 2009, p. 28.
+[^6]: Ārya(n): 1. The self-designation of the people whose language 
+    (*Sanskrit) and culture (*Vedic) dominated northern India from the 
+    middle of the 2nd millennium BCE, and who slowly spread their 
+    influence through the sub-continent, establishing a degree of 
+    cultural hegemony over South India by around the 6th century CE. 
+    Controversy, some of it fierce and politically tendentious, 
+    has come to surround the question of their pre-history 
+    and origins... (Johnson, 28-29).
 
-[^7]: ---. "caste.” *A Dictionary of Hinduism*, Oxford University Press,
-    2009, p. 80.
+[^7]: caste: A term claimed to be derived from the Portuguese 'casta' 
+    ('pure', and widely adopted to designate the principle on which 
+    traditional Indian society is perceived to be organized (the caste 
+    system'). The *Sanskrit equivalents are *varna ('class' (lit. 
+    'colour')) and, more accurately, *jäti ('[position assigned by] 
+    birth'), the former indicating a *Brah-manically established, 
+    idealized hierarchy based on social function, the latter a 
+    complex social reality composed of 'castes', 'subcastes', and 
+    'sub-subcastes'... (Johnson, 80).
 
 [^8]: ---. "Hindu.” *A Dictionary of Hinduism*, Oxford University
     Press, 2009, p. 141.
