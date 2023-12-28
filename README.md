@@ -143,26 +143,8 @@ Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિ�
 Gujarati-English Dictionary\].* 2nd Edition, Asian Educational Services,
 2002.
 
-Johnson, W.J. "Ārya(N).” *A Dictionary of Hinduism*, Oxford University
-Press, 2009, p. 28.
-
----. "caste.” *A Dictionary of Hinduism*, Oxford University Press, 2009,
-p. 80.
-
----. "Hindu.” *A Dictionary of Hinduism*, Oxford University Press,
-2009, p. 141.
-
----. "Indology.” *A Dictionary of Hinduism*, Oxford University Press,
-2009, p. 147.
-
----. "karma.” *A Dictionary of Hinduism*, Oxford University Press,
-2009, p. 169.
-
----. "sati.” *A Dictionary of Hinduism*, Oxford University Press, 2009,
-p. 293.
-
----. "swastika.” *A Dictionary of Hinduism*, Oxford University Press,
-2009, p. 316.
+Johnson, W.J. *A Dictionary of Hinduism*, Oxford University
+Press, 2009.
 
 Hannah-Jones, Nikole. *The 1619 Project: A New Origin Story.* Random
 House Publishing Group, 2021.
