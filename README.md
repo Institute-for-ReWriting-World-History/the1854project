@@ -217,7 +217,7 @@ House Publishing Group, 2021.
 [^10]: <b>sati</b> ('true' or 'virtuous wife')) A woman who expresses 
     her faithful devotion to her husband, and avoids the supposed 
     *inauspiciousness of "widowhood, by (in theory, voluntarily) 
-    immolating herself on her husband's "funeral pyre, in a practice 
+    immolating herself on her husband's *funeral pyre, in a practice 
     known as sahamarana ('dying together'), sahagamana (going together'), 
     or anumarana ('dying after') (Johnson 293).
 
