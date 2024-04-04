@@ -85,62 +85,37 @@ translation of the Word in Modern English in quotes.
 
 ### *ārya* 
 
-> आर्य, *ārya*: “a loyal or faithful man, a man of one's own race; one
-> who is faithful to the deities of his country; N. of the Hindū and
-> Iranian people (opposed to an-ārya, dasyu, dāsa); in later times N. of
-> the first three castes (opposed to śūdra); a man highly esteemed, a
-> respectable, honourable man; a master, an owner; a friend; a Vaiśya;
-> Buddha; (with Buddhists) a man who has thought on the four chief
-> principles of Buddhism and lives according to them; a son of Manu
-> Sāvarṇa (Sir Monier Monier-Williams 129);”
+> आर्य, *ārya*: “Worthy, venerable, respectable, honourable, noble, high (Apte 256);”
 
 ### *jīva*
 
-> जीव, *jīva*: “living, existing, a living being; causing to live,
-> vivifying; (as), m. the principle of life, the vital breath, the
-> living or personal soul in- corporated in the body and imparting to it
-> life, motion, and sensation, (hence also called jīvātman; it is
-> distinguished from the paramātman or supreme soul, q. v.) (Sir Monier
-> Monier-Williams 348);”
+> जीव, *jīva*: “The individual or personal soul enshrined in the human
+> body and imparting to it life, motion and sensation (Apte 515);”
+
 
 ### *īśvara*
 
-> ईश्वर, *īśvara*: “able to do, capable of (with gen. of Vedic inf., or
-> with common inf.), liable, ex- posed to; (as, ī), m. f. master, lord,
-> prince, king, mis- tress, queen; (as), m. a husband; god, the supreme,
-> especially Śiva, one of the Rudras, the god of love, the soul or
-> supreme soul (ātman), N. of a prince; (ā or ī), f., N. of Durgā; of
-> Lakṣmī or of any other of the Śaktis or female energies of the deities
-> (Sir Monier Monier-Williams 144).”
+> ईश्वर, *īśvara*: “The Supreme soul; the soul (Apte 284);”
+
 
 ### *maya*
 
-> माया, *maya*: “used as an affix at the end of a comp. to express ‘made
-> of, consisting of, full of,’ &c. (e. g. suvarṇa-maya, made of gold,
-> golden; cf. kāṣṭha- m°, jala-m°, krodha-m°, tejo-m°; in later Sanskrit
-> the fem. is sometimes, but rarely, in ā); (as), m., N. of an Asura
-> (described sometimes as the artificer or architect of the Daityas,
-> sometimes as versed in magic, astronomy, and military science); N. of
-> an astronomer, (according to some Πτολεμαῖος); N. of an author; (ā),
-> f. medical treatment, the practice of physic, administering remedies
-> (Sir Monier Monier-Williams 747).”
+> माया, *maya*: “Deceit, fraud, trick, trickery; a device, an artifice (Apte 861);”
+
 
 ### *brahman*
 
-> ब्रह्मन्, *brahman*: “religious devotion (regarded as an impulse or
-> feeling gradually growing up and expanding so as to fill the soul),
-> prayer or any pious expression in the worship of the gods, a hymn of
-> praise (Ved., Sāy. = stotra); a sacred text (especially a Mantra used
-> as a spell for averting evil influences, forming a distinct class from
-> the ṛcas, sāmāni, and yajūṃṣi; and hence the term Brah- ma-veda, q.
-> v., is sometimes applied to the collec- tion of texts commonly called
-> Atharva-veda); the mystic syllable Om \[cf. Manu II. 83\] (Sir Monier
-> Monier-Williams 0689);”
+> ब्रह्मन्, *brahman*: The Supreme Being, regarded as impersonal and
+> divested of all quality and action; (according to the Vedāntins,
+> Brahman is both the efficient and the material cause of the visible
+> universe, the all-pervading soul and spirit of the universe, the
+> essence from which all created things are produced and into which they
+> are absorbed (Apte 801);”
 
 ### *parabrahman*
 
-> परब्रह्म, *parabrahma*: " the Supreme Spirit (Sir Monier
-> Monier-Williams 533)”
+> परब्रह्म, *parabrahman*: "The sacred and mystic syllable *om* (Apte 801);”
+
 
 ## Dedication 
 
@@ -165,10 +140,7 @@ Vnderstand Many Hard English Words, Which They Shall Heare or Read in
 Scriptures, Sermons, or Elsewhere, and Also Be Made Able to Vse the Same
 Aptly Themselues.* W. I. for Edmund Weauer, 1604.
 
-Sir Monier Monier-Williams. *A Sanskṛit-English dictionary etymologically 
-and philologically arranged with special reference to Greek, Latin, 
-Gothic, German, Anglo-Saxon, and other cognate Indo-European languages*, 
-The Clarendon Press, 1872.
+Apte, Vaman Shivram. *Apte Practical Sanskrit-English Dictionary.* Shiralkar, 1890.
 
 Swami Nikhilānand. *Self-Knowledge: An English Translation of
 Sankaracharya Atmabodha with Notes, Comments, and Introduction.* Sri
