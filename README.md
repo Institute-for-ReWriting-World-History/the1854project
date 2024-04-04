@@ -95,7 +95,7 @@ translation of the Word in Modern English in quotes.
 
 # īśvara
 
-> ईश्वर, *īśvara*: “lord (Sir Monier Monier-Williams 171)”
+> ईश्वर, *īśvara*: “master, lord, prince, king, mistress, queen (Sir Monier Monier-Williams 171)”
 
 # maya
 
