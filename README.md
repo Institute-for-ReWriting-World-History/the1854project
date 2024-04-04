@@ -69,8 +69,8 @@ translation of the Word in Modern English in quotes.
 
 ## Epigraph 
 
-> अविरोधितया कर्म नाविद्यां विनिवर्तयेत् | <br>
-> विद्याविद्या निहन्त्येव तेजस्तिमिरसङ्ववत् ||
+> अविरोधितया कर्म नाविद्यां विनिवर्तयेत् \| <br>
+> विद्याविद्या निहन्त्येव तेजस्तिमिरसङ्ववत् \||
 >
 > *avirodhitayã karma nävidyam vinivartayet* <br>
 > *vidyavidyam nihantyeva tejastimirasamghavat*
