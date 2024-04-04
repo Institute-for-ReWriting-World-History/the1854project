@@ -40,12 +40,12 @@ A Note About This Book <br>
 Epigraph <br>
 Preface <br>
 
-1. Ārya(n)
-2. caste
-3. Hindu
-4. karma
-5. sati
-6. swastika
+1.	ārya 
+2.	jīva
+3.	īśvara
+4.	maya
+5.	brahma
+6.	parabrahma
 
 Dedication <br>
 Acknowledgement <br>
@@ -65,7 +65,7 @@ translation of the Word in Modern English in quotes.
 > translated as "seem good." Equality, justice, freedom, democracy, all
 > of these are dogmas for us today, just as the Godhead, the
 > Resurrection, and spiritual grace were (and still are) dogmas for the
-> christan community (Nisbet 22-23).[^3]
+> christan community (Nisbet 22-23).
 
 ## Epigraph 
 
@@ -76,36 +76,44 @@ translation of the Word in Modern English in quotes.
 > *vidyavidyam nihantyeva tejastimirasamghavat*
 >
 > Action cannot destroy ignorance, as it is not opposed to ignorance <br>
-> Knowledge does verily destroy ignorance just as light destroys deep darkness (Ātmabodha 3)[^4]
+> Knowledge does verily destroy ignorance just as light destroys deep darkness (Ātmabodha 3)[^3]
 
 ## Preface 	
  
- *Indology*: "The academic study of the languages, cultures, histories,
- and religions of the Indian subcontinent."[^5]
+> *Indology*: "The academic study of the languages, cultures, histories,
+> and religions of the Indian subcontinent (Johnson 147)."
 
-## Ārya(n) 
+# ārya 
 
-आर्य, *ā́rya*: "noble"[^6]
+> आर्य, *ārya*: “a respectable or honourable or faithful man, an
+> inhabitant of Āryāvarta (Sir Monier Monier-Williams 152)”
 
-## caste
+# jīva
 
-*casta*: "pure"[^7]
+> जीव, *jīva*: “living, existing, alive (Sir Monier Monier-Williams
+> 422)”
 
-## Hindu
+# īśvara
 
-सिन्धु, *sindhu*: “river”[^8]
+> ईश्वर, *īśvara*: “lord (Sir Monier Monier-Williams 171)”
 
-## karma
+# maya
 
-कर्मन्, *karma*: “action”[^9]
+> माया, *maya*: “creating illusions (said of Viṣṇu) (Sir Monier
+> Monier-Williams 811)”
 
-## sati
+# brahman
 
-सती, *sati*: "true"[^10]
+> ब्रह्मन्, *brahman*: “n. (lit. ‘growth’, ‘expansion’, ‘evolution’,
+> ‘development’ ‘swelling of the spirit or soul’, fr. √2. *bṛh*) pious
+> effusion or utterance, outpouring of the heart in worshipping the
+> gods, prayer (Sir Monier Monier-Williams 737)”
 
-## swastika
+# parabrahman
 
-वस्तिक, *svastika*: "well being”[^11]
+> परब्रह्म, *parabrahma*: " n. the Supreme Spirit or Brahman (Sir
+> Monier Monier-Williams 587)”
+
 
 ## Dedication 
 
@@ -113,11 +121,11 @@ Indians—Past, Present and Future
 
 ## Acknowledgement
 
-*The 1619 Project*[^12]
+*The 1619 Project*[^4]
 
 ## Contributors 
 
-**Purushottam Nagesh Oak** is the Founder and President of *The Institute for ReWriting World History*. 
+**Sri Purushottam Nagesh Oak** is the Founder and President of the *Institute for ReWriting World History*. 
 
 ## Notes 
 
@@ -129,6 +137,11 @@ All Vnskilfull Persons. Whereby They May the More Easily and Better
 Vnderstand Many Hard English Words, Which They Shall Heare or Read in
 Scriptures, Sermons, or Elsewhere, and Also Be Made Able to Vse the Same
 Aptly Themselues.* W. I. for Edmund Weauer, 1604.
+
+Sir Monier Monier-Williams. *A Sanskṛit-English dictionary etymologically 
+and philologically arranged with special reference to Greek, Latin, 
+Gothic, German, Anglo-Saxon, and other cognate Indo-European languages*, 
+The Clarendon Press, 1899.
 
 Swami Nikhilānand. *Self-Knowledge: An English Translation of
 Sankaracharya Atmabodha with Notes, Comments, and Introduction.* Sri
@@ -163,10 +176,7 @@ House Publishing Group, 2021.
     one’s wealth. Hence, 2. All that one loves; the highest object of
     one’s ambition (Belsare 577).
 
-[^3]: Nisbet, R.A. *The Degradation of the Academic Dogma: The
-    University in America, 1945-1970.* Pearson Education, 1971.
-
-[^4]: Action—Which is associated with the consciousness of doer,
+[^3]: Action—Which is associated with the consciousness of doer,
     instrument, and result.
 
     Knowledge—Of Non-duality.
@@ -179,58 +189,8 @@ House Publishing Group, 2021.
     the state of ignorance. As such, the vision of a god or the
     experience of happiness in heaven belongs to the realm of ignorance
     (Swami Nikhilānand 157).
-    
-[^5]: <b>Indology</b> The academic study of the languages, cultures, histories, 
-    and religions of the Indian subcontinent (Johnson 147).
 
-[^6]: <b>Ārya(n)</b> (‘hospitable’, ‘noble’, ‘honourable’) 1. The 
-    self-designation of the people whose language (*Sanskrit) and 
-    culture (*Vedic) dominated northern India from the middle of 
-    the 2nd millennium BCE, and who slowly spread their influence 
-    through the sub-continent, establishing a degree of cultural 
-    hegemony over South India by around the 6th century CE. 
-    Controversy, some of it fierce and politically tendentious, 
-    has come to surround the question of their pre-history 
-    and origins (Johnson 28-29).
-
-[^7]: <b>caste</b> A term claimed to be derived from the Portuguese 'casta' 
-    ('pure', and widely adopted to designate the principle on which 
-    traditional Indian society is perceived to be organized (the caste 
-    system'). The *Sanskrit equivalents are *varna ('class' (lit. 
-    'colour')) and, more accurately, *jäti ('[position assigned by] 
-    birth'), the former indicating a *Brahmanically established, 
-    idealized hierarchy based on social function, the latter a 
-    complex social reality composed of 'castes', 'subcastes', and 
-    'sub-subcastes'(Johnson 80).
-
-[^8]: <b>Hindu</b> A word derived from Persian, Greek, and *Muslim 
-    renderings of the *Sanskrit term for the river Sindhu 
-    (sub-sequently known as the *Indus), designating the 
-    population to the east of that river (Johnson 141).
-
-[^9]: <b>karma(karman)</b> ('act, 'action, 'activity,'rite', 'motion') 
-    In its developed form, the lynchpin of a theory, or doctrine ("the 
-    law of karma), which attempts to account for the origins and nature 
-    of an individual's mortal existence and suffering in the light of 
-    his or her actions (karma), past and present (Johonson 169).
-
-[^10]: <b>sati</b> ('true' or 'virtuous wife')) A woman who expresses 
-    her faithful devotion to her husband, and avoids the supposed 
-    *inauspiciousness of "widowhood, by (in theory, voluntarily) 
-    immolating herself on her husband's *funeral pyre, in a practice 
-    known as sahamarana ('dying together'), sahagamana (going together'), 
-    or anumarana ('dying after') (Johnson 293).
-
-[^11]: <b>svastika (swastika)</b> A pan-Indian *auspicious sign, variously 
-    explained, but probably in origin a solar symbol. Some derive it from 
-    the *Sanskrit su+ asti, 'well being'/'good fortune'; some also distinguish 
-    between svastikas with right-handed (clockwise-pointing) arms, which 
-    are auspicious, since they represent the sun ascending towards the 
-    summer solstice, and those with left-handed (anti-clockwise-pointing) 
-    arms, which are inauspicious since they represent the sun descending 
-    towards the winter solstice  (Johnson 316).
-
-[^12]: I was maybe fifteen or sixteen when I first came across the 
+[^4]: I was maybe fifteen or sixteen when I first came across the 
     date 1619. Whenever I think about that moment, my mind conjures 
     an image of glowing three-dimensional numbers rising from the page. 
     Of course, in reality, they were printed in plain black text on 
