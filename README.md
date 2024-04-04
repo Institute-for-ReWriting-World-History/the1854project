@@ -45,7 +45,7 @@ Preface <br>
 3.	*īśvara*
 4.	*maya*
 5.	*brahman*
-6.	*parabrahman*
+6.	*param brahma*
 
 Dedication <br>
 Acknowledgement <br>
@@ -95,7 +95,7 @@ translation of the Word in Modern English in quotes.
 
 ### *īśvara*
 
-> ईश्वर, *īśvara*: “The Supreme soul; the soul (Apte 284);”
+> ईश्वर, *īśvara*: “Powerful, able, capable of (with inf.) (Apte 284);”
 
 
 ### *maya*
@@ -112,9 +112,9 @@ translation of the Word in Modern English in quotes.
 > essence from which all created things are produced and into which they
 > are absorbed (Apte 801);”
 
-### *parabrahman*
+### *param brahma*
 
-> परब्रह्म, *parabrahman*: "The sacred and mystic syllable *om* (Apte 801);”
+> परं ब्रह्म, *param brahma*: "The sacred and mystic syllable *om* (Apte 801);”
 
 
 ## Dedication 
