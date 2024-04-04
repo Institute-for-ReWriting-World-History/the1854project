@@ -44,8 +44,8 @@ Preface <br>
 2.	jīva
 3.	īśvara
 4.	maya
-5.	brahma
-6.	parabrahma
+5.	brahman
+6.	parabrahman
 
 Dedication <br>
 Acknowledgement <br>
