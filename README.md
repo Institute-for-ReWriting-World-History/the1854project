@@ -105,7 +105,7 @@ translation of the Word in Modern English in quotes.
 
 ### *brahman*
 
-> ब्रह्मन्, *brahman*: The Supreme Being, regarded as impersonal and
+> ब्रह्मन्, *brahman*: "The Supreme Being, regarded as impersonal and
 > divested of all quality and action; (according to the Vedāntins,
 > Brahman is both the efficient and the material cause of the visible
 > universe, the all-pervading soul and spirit of the universe, the
