@@ -83,7 +83,7 @@ translation of the Word in Modern English in quotes.
 > *Indology*: "The academic study of the languages, cultures, histories,
 > and religions of the Indian subcontinent (Johnson 147)."
 
-# ārya 
+### ārya 
 
 > आर्य, *ārya*: “a loyal or faithful man, a man of one's own race; one
 > who is faithful to the deities of his country; N. of the Hindū and
@@ -94,7 +94,7 @@ translation of the Word in Modern English in quotes.
 > principles of Buddhism and lives according to them; a son of Manu
 > Sāvarṇa (Sir Monier Monier-Williams 129);”
 
-# jīva
+### jīva
 
 > जीव, *jīva*: “living, existing, a living being; causing to live,
 > vivifying; (as), m. the principle of life, the vital breath, the
@@ -103,7 +103,7 @@ translation of the Word in Modern English in quotes.
 > distinguished from the paramātman or supreme soul, q. v.) (Sir Monier
 > Monier-Williams 348);”
 
-# īśvara
+### īśvara
 
 > ईश्वर, *īśvara*: “able to do, capable of (with gen. of Vedic inf., or
 > with common inf.), liable, ex- posed to; (as, ī), m. f. master, lord,
@@ -113,7 +113,7 @@ translation of the Word in Modern English in quotes.
 > Lakṣmī or of any other of the Śaktis or female energies of the deities
 > (Sir Monier Monier-Williams 144).”
 
-# maya
+### maya
 
 > माया, *maya*: “used as an affix at the end of a comp. to express ‘made
 > of, consisting of, full of,’ &c. (e. g. suvarṇa-maya, made of gold,
@@ -125,7 +125,7 @@ translation of the Word in Modern English in quotes.
 > f. medical treatment, the practice of physic, administering remedies
 > (Sir Monier Monier-Williams 747).”
 
-# brahman
+### brahman
 
 > ब्रह्मन्, *brahman*: “religious devotion (regarded as an impulse or
 > feeling gradually growing up and expanding so as to fill the soul),
@@ -137,7 +137,7 @@ translation of the Word in Modern English in quotes.
 > Atharva-veda); the mystic syllable Om \[cf. Manu II. 83\] (Sir Monier
 > Monier-Williams 0689);”
 
-# parabrahman
+### parabrahman
 
 > परब्रह्म, *parabrahma*: " the Supreme Spirit (Sir Monier
 > Monier-Williams 533)”
