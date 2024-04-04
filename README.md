@@ -45,7 +45,7 @@ Preface <br>
 3.	*īśvara*
 4.	*maya*
 5.	*brahman*
-6.	*param brahma*
+6.	*paraṃ brahma*
 
 Dedication <br>
 Acknowledgement <br>
@@ -112,9 +112,9 @@ translation of the Word in Modern English in quotes.
 > essence from which all created things are produced and into which they
 > are absorbed (Apte 801);”
 
-### *param brahma*
+### *paraṃ brahma*
 
-> परं ब्रह्म, *param brahma*: "The sacred and mystic syllable *om* (Apte 801);”
+> परं ब्रह्म, *paraṃ brahma*: "The sacred and mystic syllable *om* (Apte 801);”
 
 
 ## Dedication 
