@@ -61,11 +61,14 @@ translation of the Word in Modern English in quotes.
 
 ## A Note About This Book
 
-> The word "dogma" comes from the Greek dok (ein) which may be
-> translated as "seem good." Equality, justice, freedom, democracy, all
-> of these are dogmas for us today, just as the Godhead, the
-> Resurrection, and spiritual grace were (and still are) dogmas for the
-> christan community (Nisbet 22-23).
+> तस्मै स विद्वानुपसन्नाय सम्यक्प्रशान्तचित्ताय शमान्विताय ।
+> येनाक्षरं पुरुषं वेद सत्यं प्रोवाच तां तत्त्वतो ब्रह्मविद्याम् ॥ १३ ॥
+>
+> tasmai sa vidvānupasannāya samyakpraśāntacittāya śamānvitāya |
+> yenākṣaraṃ puruṣaṃ veda satyaṃ provāca tāṃ tattvato brahmavidyām || 13 ||
+> 
+> To him who has thus approached, whose heart is well subdued and who has control over his senses,
+> let him truly teach that Brahmavidya by which the true immortal purusha is known (_Muṇḍaka Upaniṣad_ 1.2.13)
 
 ## Epigraph 
 
@@ -76,12 +79,19 @@ translation of the Word in Modern English in quotes.
 > *vidyavidyam nihantyeva tejastimirasamghavat*
 >
 > Action cannot destroy ignorance, as it is not opposed to ignorance <br>
-> Knowledge does verily destroy ignorance just as light destroys deep darkness (Ātmabodha 3)[^3]
+> Knowledge does verily destroy ignorance just as light destroys deep darkness (_Ātmabodha_ 3)[^3]
 
 ## Preface 	
- 
-> *Indology*: "The academic study of the languages, cultures, histories,
-> and religions of the Indian subcontinent (Johnson 147)."
+
+> कालवृत्त्या तु मायायां गुणमय्यामधोक्षज: ।
+> पुरुषेणात्मभूतेन वीर्यमाधत्त वीर्यवान् ॥ २६ ॥
+>
+> kāla-vṛttyā tu māyāyāṁ guṇa-mayyām adhokṣajaḥ ।
+> puruṣeṇātma-bhūtena vīryam ādhatta vīryavān ॥ 26 ॥
+> 
+>(When) the commotion of Guṇas (attributes) is caused into Māyā through the power or effect of Time,
+>Viṣṇu, the possessor of perfect intellectual power, inseminates into her his own image or
+>the individual soul through Puruṣa who is his own part (aṃśa) controlling prakṛti (_Bhāgavata Purāṇa_ 3.5.26)
 
 ### *ārya* 
 
@@ -92,16 +102,13 @@ translation of the Word in Modern English in quotes.
 > जीव, *jīva*: “The individual or personal soul enshrined in the human
 > body and imparting to it life, motion and sensation (Apte 515);”
 
-
 ### *īśvara*
 
 > ईश्वर, *īśvara*: “Powerful, able, capable of (with inf.) (Apte 284);”
 
-
 ### *maya*
 
 > माया, *maya*: “Deceit, fraud, trick, trickery; a device, an artifice (Apte 861);”
-
 
 ### *brahman*
 
@@ -115,7 +122,6 @@ translation of the Word in Modern English in quotes.
 ### *paraṃ brahma*
 
 > परं ब्रह्म, *paraṃ brahma*: "The sacred and mystic syllable *om* (Apte 801);”
-
 
 ## Dedication 
 
@@ -146,15 +152,9 @@ Swami Nikhilānand. *Self-Knowledge: An English Translation of
 Sankaracharya Atmabodha with Notes, Comments, and Introduction.* Sri
 Ramakrishna Math, 1947.
 
-Nisbet, R.A. *The Degradation of the Academic Dogma: The University in
-America, 1945-1970.* Pearson Education, 1971.
-
 Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિકશનરી \[Etymological
 Gujarati-English Dictionary\].* 2nd Edition, Asian Educational Services,
 2002.
-
-Johnson, W.J. *A Dictionary of Hinduism*, Oxford University
-Press, 2009.
 
 Hannah-Jones, Nikole. *The 1619 Project: A New Origin Story.* Random
 House Publishing Group, 2021.
