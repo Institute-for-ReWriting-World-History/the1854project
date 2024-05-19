@@ -92,7 +92,7 @@ translation of the Word in Modern English in quotes.
 > The Lord, the supreme soul of all the souls (jīvas) and their master, was all alone before (the creation of) this (universe). 
 > When the will of the Supreme Lord viz. Māyā disappears (or when he wills to be alone), existent as he is as a cause, he 
 > is not perceived separately as a seer or anything to be seen, (though) he was comprehended by various conjectures 
-> (while the gross creation existed). (_Bhāgavata Purāṇa_ 3.5.24)
+> (while the gross creation existed) (_Bhāgavata Purāṇa_ 3.5.24)
 
 ### *ārya* 
 
@@ -149,9 +149,15 @@ Aptly Themselues.* W. I. for Edmund Weauer, 1604.
 
 Apte, Vaman Shivram. *Apte Practical Sanskrit-English Dictionary.* Shiralkar, 1890.
 
+*The Upanishads and Sri Sankara's Commentary: Isa, Kena & Mundaka*. 
+Translated by S. Sitarama Sastri, V.C. Seshacharri, 1905.
+
 Swami Nikhilānand. *Self-Knowledge: An English Translation of
 Sankaracharya Atmabodha with Notes, Comments, and Introduction.* Sri
 Ramakrishna Math, 1947.
+
+*The Bhagavata Purana Part 1*. Edited by J. L. Shastri, Translated by G. V. Tagare, 
+vol. 7, 1950, Ancient Indian Tradition and Mythology.
 
 Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિકશનરી \[Etymological
 Gujarati-English Dictionary\].* 2nd Edition, Asian Educational Services,
