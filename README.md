@@ -64,8 +64,8 @@ translation of the Word in Modern English in quotes.
 > तस्मै स विद्वानुपसन्नाय सम्यक्प्रशान्तचित्ताय शमान्विताय ।  <br>
 > येनाक्षरं पुरुषं वेद सत्यं प्रोवाच तां तत्त्वतो ब्रह्मविद्याम् ॥ 
 >
-> tasmai sa vidvānupasannāya samyakpraśāntacittāya śamānvitāya । <br>
-> yenākṣaraṃ puruṣaṃ veda satyaṃ provāca tāṃ tattvato brahmavidyām ॥
+> *tasmai sa vidvānupasannāya samyakpraśāntacittāya śamānvitāya* । <br>
+> *yenākṣaraṃ puruṣaṃ veda satyaṃ provāca tāṃ tattvato brahmavidyām* ॥
 > 
 > To him who has thus approached, whose heart is well subdued and who has control over his senses,
 > let him truly teach that Brahmavidya by which the true immortal purusha is known (_Muṇḍaka Upaniṣad_ 1.2.13)
@@ -86,8 +86,8 @@ translation of the Word in Modern English in quotes.
 > स वा एष तदा द्रष्टा नापश्यद् द‍ृश्यमेकराट् ।  <br>
 > मेनेऽसन्तमिवात्मानं सुप्तशक्तिरसुप्तद‍ृक् ॥ 
 >
-> sa vā eṣa tadā draṣṭā nāpaśyad dṛśyam ekarāṭ ।  <br>
-> mene ’santam ivātmānaṁ supta-śaktir asupta-dṛk ॥ 
+> *sa vā eṣa tadā draṣṭā nāpaśyad dṛśyam ekarāṭ* ।  <br>
+> *mene ’santam ivātmānaṁ supta-śaktir asupta-dṛk* ॥ 
 > 
 > The Lord, the supreme soul of all the souls (jīvas) and their master, was all alone before (the creation of) this (universe). 
 > When the will of the Supreme Lord viz. Māyā disappears (or when he wills to be alone), existent as he is as a cause, he 
