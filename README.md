@@ -61,33 +61,33 @@ translation of the Word in Modern English in quotes.
 
 ## A Note About This Book
 
-> तस्मै स विद्वानुपसन्नाय सम्यक्प्रशान्तचित्ताय शमान्विताय ।
-> येनाक्षरं पुरुषं वेद सत्यं प्रोवाच तां तत्त्वतो ब्रह्मविद्याम् ॥ १३ ॥
+> तस्मै स विद्वानुपसन्नाय सम्यक्प्रशान्तचित्ताय शमान्विताय ।  <br>
+> येनाक्षरं पुरुषं वेद सत्यं प्रोवाच तां तत्त्वतो ब्रह्मविद्याम् ॥ 
 >
-> tasmai sa vidvānupasannāya samyakpraśāntacittāya śamānvitāya |
-> yenākṣaraṃ puruṣaṃ veda satyaṃ provāca tāṃ tattvato brahmavidyām || 13 ||
+> tasmai sa vidvānupasannāya samyakpraśāntacittāya śamānvitāya । <br>
+> yenākṣaraṃ puruṣaṃ veda satyaṃ provāca tāṃ tattvato brahmavidyām ॥
 > 
 > To him who has thus approached, whose heart is well subdued and who has control over his senses,
 > let him truly teach that Brahmavidya by which the true immortal purusha is known (_Muṇḍaka Upaniṣad_ 1.2.13)
 
 ## Epigraph 
 
-> अविरोधितया कर्म नाविद्यां विनिवर्तयेत् \| <br>
-> विद्याविद्या निहन्त्येव तेजस्तिमिरसङ्ववत् \||
+> अविरोधितया कर्म नाविद्यां विनिवर्तयेत् । <br>
+> विद्याविद्या निहन्त्येव तेजस्तिमिरसङ्ववत् ॥ 
 >
-> *avirodhitayã karma nävidyam vinivartayet* <br>
-> *vidyavidyam nihantyeva tejastimirasamghavat*
+> *avirodhitayã karma nävidyam vinivartayet* । <br> 
+> *vidyavidyam nihantyeva tejastimirasamghavat* ॥
 >
 > Action cannot destroy ignorance, as it is not opposed to ignorance <br>
 > Knowledge does verily destroy ignorance just as light destroys deep darkness (_Ātmabodha_ 3)[^3]
 
 ## Preface 	
 
-> कालवृत्त्या तु मायायां गुणमय्यामधोक्षज: ।
-> पुरुषेणात्मभूतेन वीर्यमाधत्त वीर्यवान् ॥ २६ ॥
+> कालवृत्त्या तु मायायां गुणमय्यामधोक्षज: ।  <br>
+> पुरुषेणात्मभूतेन वीर्यमाधत्त वीर्यवान् ॥ 
 >
-> kāla-vṛttyā tu māyāyāṁ guṇa-mayyām adhokṣajaḥ ।
-> puruṣeṇātma-bhūtena vīryam ādhatta vīryavān ॥ 26 ॥
+> kāla-vṛttyā tu māyāyāṁ guṇa-mayyām adhokṣajaḥ ।  <br>
+> puruṣeṇātma-bhūtena vīryam ādhatta vīryavān ॥ 
 > 
 >(When) the commotion of Guṇas (attributes) is caused into Māyā through the power or effect of Time,
 >Viṣṇu, the possessor of perfect intellectual power, inseminates into her his own image or
