@@ -83,15 +83,16 @@ translation of the Word in Modern English in quotes.
 
 ## Preface 	
 
-> कालवृत्त्या तु मायायां गुणमय्यामधोक्षज: ।  <br>
-> पुरुषेणात्मभूतेन वीर्यमाधत्त वीर्यवान् ॥ 
+> स वा एष तदा द्रष्टा नापश्यद् द‍ृश्यमेकराट् ।  <br>
+> मेनेऽसन्तमिवात्मानं सुप्तशक्तिरसुप्तद‍ृक् ॥ 
 >
-> kāla-vṛttyā tu māyāyāṁ guṇa-mayyām adhokṣajaḥ ।  <br>
-> puruṣeṇātma-bhūtena vīryam ādhatta vīryavān ॥ 
+> sa vā eṣa tadā draṣṭā nāpaśyad dṛśyam ekarāṭ ।  <br>
+> mene ’santam ivātmānaṁ supta-śaktir asupta-dṛk ॥ 
 > 
->(When) the commotion of Guṇas (attributes) is caused into Māyā through the power or effect of Time,
->Viṣṇu, the possessor of perfect intellectual power, inseminates into her his own image or
->the individual soul through Puruṣa who is his own part (aṃśa) controlling prakṛti (_Bhāgavata Purāṇa_ 3.5.26)
+> The Lord, the supreme soul of all the souls (jīvas) and their master, was all alone before (the creation of) this (universe). 
+> When the will of the Supreme Lord viz. Māyā disappears (or when he wills to be alone), existent as he is as a cause, he 
+> is not perceived separately as a seer or anything to be seen, (though) he was comprehended by various conjectures 
+> (while the gross creation existed). (_Bhāgavata Purāṇa_ 3.5.24)
 
 ### *ārya* 
 
